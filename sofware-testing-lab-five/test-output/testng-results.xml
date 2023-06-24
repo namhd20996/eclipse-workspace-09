@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-22T17:10:08 ICT" name="Suite1" finished-at="2023-06-22T17:10:08 ICT" duration-ms="26">
+    <groups>
+      <group name="groupA">
+        <method signature="GroupExampleTest.testOne()[pri:0, instance:lesson.three.GroupExampleTest@1e6454ec]" name="testOne" class="lesson.three.GroupExampleTest"/>
+        <method signature="GroupExampleTest.testThree()[pri:0, instance:lesson.three.GroupExampleTest@1e6454ec]" name="testThree" class="lesson.three.GroupExampleTest"/>
+        <method signature="GroupExampleTest.testTwo()[pri:0, instance:lesson.three.GroupExampleTest@1e6454ec]" name="testTwo" class="lesson.three.GroupExampleTest"/>
+      </group> <!-- groupA -->
+    </groups>
+    <test started-at="2023-06-22T17:10:08 ICT" name="TestGroup" finished-at="2023-06-22T17:10:08 ICT" duration-ms="26">
+      <class name="lesson.three.GroupExampleTest">
+        <test-method signature="testOne()[pri:0, instance:lesson.three.GroupExampleTest@1e6454ec]" started-at="2023-06-22T17:10:08 ICT" name="testOne" finished-at="2023-06-22T17:10:08 ICT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testThree()[pri:0, instance:lesson.three.GroupExampleTest@1e6454ec]" started-at="2023-06-22T17:10:08 ICT" name="testThree" finished-at="2023-06-22T17:10:08 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method signature="testTwo()[pri:0, instance:lesson.three.GroupExampleTest@1e6454ec]" started-at="2023-06-22T17:10:08 ICT" name="testTwo" finished-at="2023-06-22T17:10:08 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- lesson.three.GroupExampleTest -->
+    </test> <!-- TestGroup -->
+  </suite> <!-- Suite1 -->
+</testng-results>

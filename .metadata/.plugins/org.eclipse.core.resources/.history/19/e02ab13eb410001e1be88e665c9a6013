@@ -1,0 +1,30 @@
+package lesson.one;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Ignore;
+import org.junit.Test;
+
+public class MathFuncTest {
+
+	private MathFunc func;
+
+	@Before
+	public void init() {
+		func = new MathFunc();
+	}
+
+	@After
+	public void tearDown() {
+		func = null;
+	}
+
+	@Ignore
+	@Test
+	public void todo() {
+		assertTrue(func.plus(1, 1) == 3);
+	}
+
+}

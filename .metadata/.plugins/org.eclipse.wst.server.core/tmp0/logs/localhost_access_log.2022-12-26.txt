@@ -1,0 +1,11 @@
+127.0.0.1 - - [26/Dec/2022:08:50:14 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:08:50:17 +0700] "GET /BoostrapLearning/index.jsp HTTP/1.1" 200 7884
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:08:50:18 +0700] "GET /BoostrapLearning/product/1.png HTTP/1.1" 404 789
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:08:50:19 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [26/Dec/2022:09:10:31 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:09:10:33 +0700] "GET /BoostrapLearning/index.jsp HTTP/1.1" 200 7884
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:09:10:33 +0700] "GET /BoostrapLearning/product/1.png HTTP/1.1" 404 789
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:09:10:33 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:09:10:37 +0700] "GET /BoostrapLearning/khachhang/login.jsp HTTP/1.1" 200 2491
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:09:10:37 +0700] "GET /BoostrapLearning/img/logo/Duynam%20(4).png HTTP/1.1" 200 43931
+0:0:0:0:0:0:0:1 - - [26/Dec/2022:09:10:37 +0700] "GET /BoostrapLearning/css/signin.css HTTP/1.1" 200 1496

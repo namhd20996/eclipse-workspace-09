@@ -1,0 +1,10 @@
+package lesson.two;
+
+import org.testng.annotations.Test;
+
+public class DemoXmlTest {
+	
+	@Test
+	pu
+
+}

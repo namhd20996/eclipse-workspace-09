@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-22T16:19:31 ICT" name="Default suite" finished-at="2023-06-22T16:19:31 ICT" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2023-06-22T16:19:31 ICT" name="Default test" finished-at="2023-06-22T16:19:31 ICT" duration-ms="27">
+      <class name="lesson.three.VatCalculatorTest">
+        <test-method signature="testVatCalculatorTest()[pri:0, instance:lesson.three.VatCalculatorTest@29e495ff]" started-at="2023-06-22T16:19:31 ICT" name="testVatCalculatorTest" finished-at="2023-06-22T16:19:31 ICT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVatCalculatorTest -->
+      </class> <!-- lesson.three.VatCalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

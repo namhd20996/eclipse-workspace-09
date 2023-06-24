@@ -1,0 +1,19 @@
+package model;
+
+public class Calculator {
+
+	public double divide(Double a, Double b) {
+		if (b == 0) {
+			throw new ArithmeticException("Divide by zero");
+		}
+		return a / b;
+	}
+
+	public double phepTru(Double a, Double b) {
+		return a - b;
+	}
+
+	public double phepCong(Double a, Double b) {
+		return a + b;
+	}
+}

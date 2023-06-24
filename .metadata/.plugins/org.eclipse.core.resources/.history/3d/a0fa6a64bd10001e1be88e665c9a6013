@@ -1,0 +1,47 @@
+package lesson.three;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+
+import java.util.ArrayList;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+public class JunitAnnotationsExample {
+
+	private ArrayList<String> list;
+
+	@BeforeClass
+	public static void beforeClass() {
+		System.out.println("Using @BeforeClass, expected before all test cases ");
+	}
+
+	@AfterClass
+	public static void afterClass() {
+		System.out.println("Using @AfterClass, expected after all test cases ");
+	}
+
+	@Before
+	public void before() {
+		list = new ArrayList<>();
+		System.out.println("Using @Before annotations, expected before each test cases ");
+	}
+
+	@After
+	public void after() {
+		list.clear();
+		System.out.println("Using @After annotations, expected before each test cases ");
+	}
+
+	@Test
+	public void testListEmpty() {
+		list.add("Test");
+		assertFalse(list.isEmpty());
+		assertEquals(1, list.size());
+	}
+
+}

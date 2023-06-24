@@ -1,0 +1,18 @@
+package lesson.three;
+
+import org.junit.Rule;
+import org.junit.Test;
+import org.junit.rules.ErrorCollector;
+
+public class ErrorCollectorExample {
+	
+	@Rule
+	public ErrorCollector collector = new ErrorCollector();
+	
+	@Test
+	public void testErrorCollector() {
+		collector.addError(new Throwable("There is 	an error in first line"));
+		collector.addError(new Throwable("There is 	an error in second line"));
+	}
+
+}

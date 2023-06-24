@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/xampp/tomcat/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/10.2.0.jre17/mssql-jdbc-10.2.0.jre17.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/xampp/tomcat/lib/el-api.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="Java_Four_Assign"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-jdbc.jar"/>
+  <path value="C:/xampp/tomcat/lib/jasper-el.jar"/>
+  <path value="C:/xampp/tomcat/lib/jsp-api.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-jni.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/weld/servlet/weld-servlet/1.1.0.Final/weld-servlet-1.1.0.Final.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-util-scan.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/opensymphony/sitemesh/2.4.2/sitemesh-2.4.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="Java_Four_Assign"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Duy Nam/.m2/repository/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+  <path value="C:/xampp/tomcat/lib/catalina.jar"/>
+  <path value="C:/xampp/tomcat/lib/annotations-api.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <path value="C:/xampp/tomcat/lib/jasper.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-util.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar"/>
+  <path value="C:/xampp/tomcat/lib/catalina-ha.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+  <path value="C:/xampp/tomcat/lib/catalina-tribes.jar"/>
+  <path value="C:/xampp/tomcat/lib/jaspic-api.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-api.jar"/>
+  <path value="C:/xampp/tomcat/lib/websocket-api.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/jsp-api/2.0/jsp-api-2.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-websocket.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-coyote.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.3/jackson-annotations-2.6.3.jar"/>
+  <path value="C:/xampp/tomcat/lib/ecj-4.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/hibernate/hibernate-core/5.6.14.Final/hibernate-core-5.6.14.Final.jar"/>
+  <path value="C:/xampp/tomcat/lib/catalina-ant.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/xampp/tomcat/lib/servlet-api.jar"/>
+  <path value="C:/xampp/tomcat/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;%2;" path="%0"/>
+   <linked-resource name="%4;" path="%3"/>
+   <linked-resource name="%6;" path="%5"/>
+   <linked-resource name="%8;%1;%2;" path="%7"/>
+   <linked-resource name="%4;" path="%9"/>
+   <linked-resource name="%2;" path="%6"/>
+   <linked-resource name="%1;%2;" path="%10"/>
+   <linked-resource name="%0;" path="%11"/>
+   <linked-resource name="%8;%1;%2;" path="%4"/>
+   <linked-resource name="%0;" path="%12"/>
+   <linked-resource name="%2;" path="%13"/>
+   <linked-resource name="%0;%4;%6;" path="%14"/>
+   <linked-resource name="%6;" path="%15"/>
+  </core>
+  <el>
+   <linked-el length="14" name="%16" offset="1287" path="%17"/>
+   <linked-el length="14" name="%16" offset="1856" path="%18"/>
+   <linked-el length="22" name="%19" offset="1531" path="%20"/>
+   <linked-el length="16" name="%21" offset="1990" path="%22"/>
+   <linked-el length="14" name="%23" offset="1655" path="%24"/>
+   <linked-el length="15" name="%25" offset="1675" path="%26"/>
+   <linked-el length="15" name="%25" offset="1329" path="%27"/>
+   <linked-el length="15" name="%25" offset="1675" path="%28"/>
+   <linked-el length="15" name="%25" offset="1871" path="%29"/>
+   <linked-el length="15" name="%25" offset="1942" path="%30"/>
+   <linked-el length="15" name="%25" offset="1674" path="%31"/>
+   <linked-el length="15" name="%25" offset="1803" path="%32"/>
+   <linked-el length="19" name="%33" offset="1935" path="%22"/>
+   <linked-el length="18" name="%34" offset="1372" path="%20"/>
+   <linked-el length="22" name="%35" offset="1531" path="%20"/>
+   <linked-el length="21" name="%36" offset="2097" path="%22"/>
+   <linked-el length="21" name="%37" offset="2097" path="%22"/>
+   <linked-el length="20" name="%37" offset="2060" path="%22"/>
+   <linked-el length="20" name="%37" offset="2023" path="%22"/>
+   <linked-el length="16" name="%37" offset="1990" path="%22"/>
+   <linked-el length="19" name="%38" offset="1818" path="%20"/>
+   <linked-el length="16" name="%39" offset="1624" path="%22"/>
+   <linked-el length="19" name="%40" offset="1481" path="%22"/>
+   <linked-el length="22" name="%41" offset="1531" path="%20"/>
+   <linked-el length="18" name="%42" offset="1372" path="%20"/>
+   <linked-el length="18" name="%43" offset="1372" path="%20"/>
+   <linked-el length="10" name="%44" offset="1594" path="%24"/>
+   <linked-el length="14" name="%44" offset="1644" path="%26"/>
+   <linked-el length="10" name="%44" offset="1586" path="%26"/>
+   <linked-el length="10" name="%44" offset="1585" path="%31"/>
+   <linked-el length="14" name="%44" offset="1644" path="%28"/>
+   <linked-el length="10" name="%44" offset="1240" path="%27"/>
+   <linked-el length="14" name="%44" offset="1655" path="%24"/>
+   <linked-el length="15" name="%44" offset="1803" path="%32"/>
+   <linked-el length="10" name="%44" offset="1586" path="%28"/>
+   <linked-el length="15" name="%44" offset="1350" path="%17"/>
+   <linked-el length="15" name="%44" offset="1887" path="%18"/>
+   <linked-el length="14" name="%44" offset="1741" path="%32"/>
+   <linked-el length="14" name="%44" offset="1287" path="%17"/>
+   <linked-el length="14" name="%44" offset="1267" path="%27"/>
+   <linked-el length="15" name="%44" offset="1329" path="%27"/>
+   <linked-el length="13" name="%44" offset="1826" path="%18"/>
+   <linked-el length="20" name="%44" offset="2060" path="%22"/>
+   <linked-el length="14" name="%44" offset="1809" path="%29"/>
+   <linked-el length="15" name="%44" offset="1871" path="%29"/>
+   <linked-el length="14" name="%44" offset="1643" path="%31"/>
+   <linked-el length="15" name="%44" offset="1942" path="%30"/>
+   <linked-el length="16" name="%44" offset="1990" path="%22"/>
+   <linked-el length="14" name="%44" offset="1880" path="%30"/>
+   <linked-el length="14" name="%44" offset="1613" path="%26"/>
+   <linked-el length="15" name="%44" offset="1675" path="%26"/>
+   <linked-el length="15" name="%44" offset="1675" path="%28"/>
+   <linked-el length="17" name="%44" offset="1621" path="%24"/>
+   <linked-el length="14" name="%44" offset="1613" path="%28"/>
+   <linked-el length="14" name="%44" offset="1686" path="%24"/>
+   <linked-el length="21" name="%44" offset="2097" path="%22"/>
+   <linked-el length="14" name="%44" offset="1772" path="%32"/>
+   <linked-el length="15" name="%44" offset="1318" path="%17"/>
+   <linked-el length="14" name="%44" offset="1298" path="%27"/>
+   <linked-el length="15" name="%44" offset="1919" path="%18"/>
+   <linked-el length="14" name="%44" offset="1856" path="%18"/>
+   <linked-el length="10" name="%44" offset="1853" path="%30"/>
+   <linked-el length="10" name="%44" offset="1782" path="%29"/>
+   <linked-el length="10" name="%44" offset="1714" path="%32"/>
+   <linked-el length="14" name="%44" offset="1840" path="%29"/>
+   <linked-el length="14" name="%44" offset="1612" path="%31"/>
+   <linked-el length="20" name="%44" offset="2023" path="%22"/>
+   <linked-el length="14" name="%44" offset="1911" path="%30"/>
+   <linked-el length="15" name="%44" offset="1674" path="%31"/>
+   <linked-el length="13" name="%44" offset="1257" path="%17"/>
+   <linked-el length="23" name="%45" offset="1982" path="%20"/>
+   <linked-el length="15" name="%46" offset="1350" path="%17"/>
+   <linked-el length="15" name="%46" offset="1919" path="%18"/>
+   <linked-el length="7" name="%47" offset="1250" path="%29"/>
+   <linked-el length="5" name="%47" offset="1328" path="%29"/>
+   <linked-el length="9" name="%48" offset="1737" path="%29"/>
+   <linked-el length="9" name="%48" offset="1549" path="%24"/>
+   <linked-el length="9" name="%48" offset="1541" path="%28"/>
+   <linked-el length="9" name="%48" offset="1540" path="%31"/>
+   <linked-el length="9" name="%48" offset="1781" path="%18"/>
+   <linked-el length="9" name="%48" offset="1808" path="%30"/>
+   <linked-el length="9" name="%48" offset="1669" path="%32"/>
+   <linked-el length="9" name="%48" offset="1541" path="%26"/>
+   <linked-el length="9" name="%48" offset="1195" path="%27"/>
+   <linked-el length="9" name="%48" offset="1212" path="%17"/>
+   <linked-el length="15" name="%49" offset="1318" path="%17"/>
+   <linked-el length="15" name="%49" offset="1887" path="%18"/>
+   <linked-el length="14" name="%50" offset="1741" path="%32"/>
+   <linked-el length="14" name="%50" offset="1613" path="%26"/>
+   <linked-el length="14" name="%50" offset="1267" path="%27"/>
+   <linked-el length="14" name="%50" offset="1809" path="%29"/>
+   <linked-el length="14" name="%50" offset="1613" path="%28"/>
+   <linked-el length="14" name="%50" offset="1612" path="%31"/>
+   <linked-el length="14" name="%50" offset="1880" path="%30"/>
+   <linked-el length="14" name="%51" offset="1686" path="%24"/>
+   <linked-el length="15" name="%52" offset="1672" path="%20"/>
+   <linked-el length="23" name="%53" offset="1982" path="%20"/>
+   <linked-el length="20" name="%54" offset="2023" path="%22"/>
+   <linked-el length="20" name="%55" offset="2060" path="%22"/>
+   <linked-el length="10" name="%56" offset="1586" path="%28"/>
+   <linked-el length="10" name="%56" offset="1594" path="%24"/>
+   <linked-el length="10" name="%56" offset="1586" path="%26"/>
+   <linked-el length="10" name="%56" offset="1853" path="%30"/>
+   <linked-el length="10" name="%56" offset="1782" path="%29"/>
+   <linked-el length="10" name="%56" offset="1585" path="%31"/>
+   <linked-el length="10" name="%56" offset="1714" path="%32"/>
+   <linked-el length="10" name="%56" offset="1240" path="%27"/>
+   <linked-el length="15" name="%57" offset="1672" path="%20"/>
+   <linked-el length="23" name="%58" offset="1982" path="%20"/>
+   <linked-el length="13" name="%59" offset="1826" path="%18"/>
+   <linked-el length="13" name="%59" offset="1257" path="%17"/>
+   <linked-el length="17" name="%60" offset="1621" path="%24"/>
+   <linked-el length="15" name="%61" offset="1308" path="%22"/>
+   <linked-el length="19" name="%61" offset="1935" path="%22"/>
+   <linked-el length="19" name="%61" offset="1481" path="%22"/>
+   <linked-el length="16" name="%61" offset="1624" path="%22"/>
+   <linked-el length="14" name="%62" offset="1772" path="%32"/>
+   <linked-el length="14" name="%62" offset="1298" path="%27"/>
+   <linked-el length="14" name="%62" offset="1644" path="%26"/>
+   <linked-el length="14" name="%62" offset="1644" path="%28"/>
+   <linked-el length="14" name="%62" offset="1840" path="%29"/>
+   <linked-el length="14" name="%62" offset="1643" path="%31"/>
+   <linked-el length="14" name="%62" offset="1911" path="%30"/>
+   <linked-el length="19" name="%63" offset="1818" path="%20"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="item.likes" value="%16"/>
+  <alias path="/Java_Four_Labs6/src/main/java/dao/impl/ReportImpl.java" value="%12"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-3/bai_3_3.jsp" value="%32"/>
+  <alias path="user.favorites" value="%33"/>
+  <alias path="servlet" value="%35"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-3/bai_3_4.jsp" value="%29"/>
+  <alias path="item.video.active" value="%36"/>
+  <alias path="/Java_Four_Labs6/src/main/java/controller/Bai_2_CTL.java" value="%2"/>
+  <alias path="/Java_Four_Labs6/src/main/java/dao/impl/UserDaoImpl.java" value="%5"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-4/bai_4_1.jsp" value="%27"/>
+  <alias path="user.fullname" value="%40"/>
+  <alias path="servlet.api" value="%41"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-4/bai_4_2.jsp" value="%18"/>
+  <alias path="/Java_Four_Labs6/src/main/java/controller/Bai_3_CTL.java" value="%8"/>
+  <alias path="jsp.api" value="%43"/>
+  <alias path="item" value="%44"/>
+  <alias path="weld.servlet" value="%45"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/java/service/impl/ReportServiceImpl.java" value="%0"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-3/bai_3_1.jsp" value="%28"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/java/service/impl/VideoServiceImpl.java" value="%4"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-2/bai_2_4.jsp" value="%30"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/java/service/impl/UserServiceImpl.java" value="%6"/>
+  <alias path="/Java_Four_Labs6/src/main/java/dao/IVideoDao.java" value="%9"/>
+  <alias path="list" value="%48"/>
+  <alias path="item.title" value="%50"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-2/bai_2_5.jsp" value="%17"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-3/bai_3_2.jsp" value="%31"/>
+  <alias path="item.admin" value="%51"/>
+  <alias path="jstl" value="%52"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/java/dao/impl/VideoDaoImpl.java" value="%3"/>
+  <alias path="item.video.title" value="%54"/>
+  <alias path="/Java_Four_Labs6/src/main/java/dao/AbstractDao.java" value="%14"/>
+  <alias path="/Java_Four_Labs6/src/main/java/dao/IReportDao.java" value="%11"/>
+  <alias path="jstl.version" value="%57"/>
+  <alias path="weld.servlet.version" value="%58"/>
+  <alias path="/Java_Four_Labs6/src/main/java/controller/Bai_4_CTL.java" value="%1"/>
+  <alias path="item.group" value="%59"/>
+  <alias path="servlet.api.version" value="%19"/>
+  <alias path="item.video.id" value="%21"/>
+  <alias path="item.email" value="%23"/>
+  <alias path="item.active" value="%25"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-2/bai_2_1.jsp" value="%22"/>
+  <alias path="jsp" value="%34"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-2/bai_2_2.jsp" value="%26"/>
+  <alias path="item.video" value="%37"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/java/service/IReportService.java" value="%10"/>
+  <alias path="sitemesh.version" value="%38"/>
+  <alias path="user.email" value="%39"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/webapp/WEB-INF/views/bai-2/bai_2_3.jsp" value="%24"/>
+  <alias path="/Java_Four_Labs6/src/main/java/dao/IUserDao.java" value="%15"/>
+  <alias path="jsp.api.version" value="%42"/>
+  <alias path="/Java_Four_Labs6/pom.xml" value="%20"/>
+  <alias path="item.oldest" value="%46"/>
+  <alias path="i" value="%47"/>
+  <alias path="item.newest" value="%49"/>
+  <alias path="/Java_Four_Labs6/src/main/java/service/IUserService.java" value="%13"/>
+  <alias path="weld" value="%53"/>
+  <alias
+   path="/Java_Four_Labs6/src/main/java/service/IVideoService.java" value="%7"/>
+  <alias path="item.video.views" value="%55"/>
+  <alias path="item.id" value="%56"/>
+  <alias path="item.fullname" value="%60"/>
+  <alias path="user" value="%61"/>
+  <alias path="item.views" value="%62"/>
+  <alias path="sitemesh" value="%63"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

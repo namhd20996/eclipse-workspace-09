@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SoNgauNhien.java&apos; to &apos;assign-front-end/src/main/java/com.assign.util&apos;&#x0D;&#x0A;- Original project: &apos;Bai13_BookStore_XacThucTK&apos;&#x0D;&#x0A;- Destination element: &apos;assign-front-end/src/main/java/com.assign.util&apos;&#x0D;&#x0A;- Original element: &apos;util.SoNgauNhien.java&apos;" description="Copy compilation unit" destination="=assign-front-end/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.assign.util" element1="/src\/main\/java&lt;util{SoNgauNhien.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1682558431545" units="1" version="1.0"/>
+</session>

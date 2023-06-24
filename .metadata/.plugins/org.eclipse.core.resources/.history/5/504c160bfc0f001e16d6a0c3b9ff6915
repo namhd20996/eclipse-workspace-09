@@ -1,0 +1,22 @@
+package parameterized;
+
+import org.junit.Before;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
+
+import model.Calculator;
+
+@RunWith(Parameterized.class)
+public class CalculatorParameterized {
+
+	private int firstNumber;
+	private int secondNumber;
+	private int expectedResult;
+	private Calculator calculator;
+
+	@Before
+	public void init() {
+		calculator = new Calculator();
+	}
+
+}

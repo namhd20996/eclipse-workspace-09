@@ -1,0 +1,21 @@
+package testng;
+
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterTest;
+
+public class CalculatorTest {
+  @BeforeTest
+  public void beforeTest() {
+  }
+
+  @AfterTest
+  public void afterTest() {
+  }
+
+
+  @Test
+  public void plusTest() {
+    throw new RuntimeException("Test not implemented");
+  }
+}

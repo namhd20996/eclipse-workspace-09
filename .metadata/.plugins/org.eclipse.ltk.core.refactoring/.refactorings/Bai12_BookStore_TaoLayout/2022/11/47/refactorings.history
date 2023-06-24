@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Bai12_BookStore_TaoLayout/src/main/webapp/footerr.jsp&apos; to &apos;footer.jsp&apos;" description="Rename resource &apos;footerr.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/footerr.jsp" name="footer.jsp" stamp="1668730088719" updateReferences="true"/>
+</session>

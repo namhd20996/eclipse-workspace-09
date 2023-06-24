@@ -1,0 +1,9 @@
+package com.assign.constant;
+
+public class SystemConstant {
+	public static final String USER_CURRENT = "currentUser"; 
+	
+	public static final String STORE_FIND_USER_BY_HREF = "User.FindListLikedByVideoHref";
+	
+	public static final String PARA_VIDEO_HREF = "videoHref";
+}

@@ -1,0 +1,9 @@
+package lesson.three;
+
+public class TestRunner {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;lib&apos; to &apos;util&apos;&#x0D;&#x0A;- Original project: &apos;Bai12_BookStore_MaHoa&apos;&#x0D;&#x0A;- Original element: &apos;Bai12_BookStore_MaHoa/src/main/java/lib&apos;&#x0D;&#x0A;- Renamed element: &apos;Bai12_BookStore_MaHoa/src/main/java/util&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;lib&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;lib" name="util" qualified="false" references="true" stamp="1668090134097" textual="false" version="1.0"/>
+</session>

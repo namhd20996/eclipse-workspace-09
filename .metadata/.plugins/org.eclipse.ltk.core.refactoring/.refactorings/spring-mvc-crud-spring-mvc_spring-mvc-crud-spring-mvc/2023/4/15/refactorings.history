@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RoleEntity.java&apos; to &apos;Java_Four_Assign/src/main/java/com.assign.entity&apos;&#x0D;&#x0A;- Original project: &apos;spring-mvc-crud-spring-mvc_spring-mvc-crud-spring-mvc&apos;&#x0D;&#x0A;- Destination element: &apos;Java_Four_Assign/src/main/java/com.assign.entity&apos;&#x0D;&#x0A;- Original element: &apos;com.laptrinhjavaweb.entity.RoleEntity.java&apos;" description="Copy compilation unit" destination="=Java_Four_Assign/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.assign.entity" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.laptrinhjavaweb.entity{RoleEntity.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1681444959858" units="1" version="1.0"/>
+</session>

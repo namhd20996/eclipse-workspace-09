@@ -1,0 +1,13 @@
+127.0.0.1 - - [27/Nov/2022:15:30:11 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:12 +0700] "GET /BoostrapLearning/index.jsp HTTP/1.1" 200 7884
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:13 +0700] "GET /BoostrapLearning/product/1.png HTTP/1.1" 404 789
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:15 +0700] "GET /BoostrapLearning/khachhang/login.jsp HTTP/1.1" 200 2491
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:19 +0700] "POST /BoostrapLearning/khach-hang HTTP/1.1" 200 8904
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:19 +0700] "GET /BoostrapLearning/product/1.png HTTP/1.1" 404 789
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:21 +0700] "GET /BoostrapLearning/khachhang/changeimg.jsp HTTP/1.1" 200 2436
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:21 +0700] "GET /BoostrapLearning/hinhanh/1669537092592Anh-gai-xinh-Viet-Nam.jpg HTTP/1.1" 404 822
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:24 +0700] "POST /BoostrapLearning/khach-hang-thay-doi-anh HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:32 +0700] "GET /BoostrapLearning/index.jsp HTTP/1.1" 200 8904
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:32 +0700] "GET /BoostrapLearning/product/1.png HTTP/1.1" 404 789
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:34 +0700] "GET /BoostrapLearning/khachhang/changeimg.jsp HTTP/1.1" 200 2436
+0:0:0:0:0:0:0:1 - - [27/Nov/2022:15:30:34 +0700] "GET /BoostrapLearning/hinhanh/1669537824595Anh-gai-xinh-Viet-Nam.jpg HTTP/1.1" 200 397662

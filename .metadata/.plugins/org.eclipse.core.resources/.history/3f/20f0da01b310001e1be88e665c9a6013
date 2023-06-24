@@ -1,0 +1,11 @@
+package lesson;
+
+public class MathFunc {
+
+	private int calls;
+
+	public int getCalls() {
+		return this.calls;
+	}
+
+}

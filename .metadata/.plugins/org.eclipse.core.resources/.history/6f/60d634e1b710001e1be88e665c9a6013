@@ -1,0 +1,8 @@
+package lesson.two;
+
+public class SuiteTest1 {
+	
+	public String message = "Fpoly";
+	
+
+}

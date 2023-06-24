@@ -1,0 +1,1099 @@
+
+Nov 06, 2022 10:20:18.468 NEW SESSION
+Nov 06, 2022 10:20:18.468 [3516:24772:1106/102018.451:ERROR:device_event_log_impl.cc(215)] [10:20:18.451] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 06, 2022 10:20:18.471 [3516:24772:1106/102018.454:ERROR:device_event_log_impl.cc(215)] [10:20:18.453] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 06, 2022 10:20:18.505 [3516:27564:1106/102018.504:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:20:39.274 [3516:27564:1106/102039.272:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:21:16.270 [3516:8452:1106/102116.268:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 06, 2022 10:21:29.649 [3516:27564:1106/102129.648:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:22:56.314 [3516:27564:1106/102256.313:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:25:12.482 [30756:26004:1106/102512.480:ERROR:device_event_log_impl.cc(215)] [10:25:12.480] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 06, 2022 10:25:12.483 [30756:26004:1106/102512.482:ERROR:device_event_log_impl.cc(215)] [10:25:12.482] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 06, 2022 10:25:12.521 [30756:9632:1106/102512.520:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:25:34.145 [30756:9632:1106/102534.144:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:26:10.335 [30756:21040:1106/102610.334:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 06, 2022 10:26:33.736 [30756:9632:1106/102633.735:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:27:04.702 [2772:4032:1106/102704.701:ERROR:device_event_log_impl.cc(215)] [10:27:04.700] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 06, 2022 10:27:04.704 [2772:4032:1106/102704.703:ERROR:device_event_log_impl.cc(215)] [10:27:04.702] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 06, 2022 10:27:04.738 [2772:10724:1106/102704.736:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:27:34.385 [2772:10724:1106/102734.385:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:28:02.562 [2772:1872:1106/102802.562:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 06, 2022 10:28:22.00 [2772:10724:1106/102822.000:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:30:14.356 [2772:10724:1106/103014.354:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:33:09.103 [2772:10724:1106/103309.101:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 06, 2022 10:39:47.153 [2772:10724:1106/103947.152:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+
+Nov 07, 2022 09:19:11.662 NEW SESSION
+Nov 07, 2022 09:19:11.663 [14440:14644:1107/091911.658:ERROR:device_event_log_impl.cc(215)] [09:19:11.659] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 09:19:11.666 [14440:14644:1107/091911.659:ERROR:device_event_log_impl.cc(215)] [09:19:11.660] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 09:19:49.580 [22532:11864:1107/091949.579:ERROR:device_event_log_impl.cc(215)] [09:19:49.579] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 09:19:49.582 [22532:11864:1107/091949.580:ERROR:device_event_log_impl.cc(215)] [09:19:49.580] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 09:20:39.154 [1856:26896:1107/092039.153:ERROR:device_event_log_impl.cc(215)] [09:20:39.153] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 09:20:39.155 [1856:26896:1107/092039.153:ERROR:device_event_log_impl.cc(215)] [09:20:39.153] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Nov 07, 2022 09:21:29.239 NEW SESSION
+Nov 07, 2022 09:21:29.239 [22508:31248:1107/092129.237:ERROR:device_event_log_impl.cc(215)] [09:21:29.236] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 09:21:29.240 [22508:31248:1107/092129.237:ERROR:device_event_log_impl.cc(215)] [09:21:29.237] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 09:22:09.36 [17748:20448:1107/092209.036:ERROR:device_event_log_impl.cc(215)] [09:22:09.035] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 07, 2022 09:22:09.37 [17748:20448:1107/092209.036:ERROR:device_event_log_impl.cc(215)] [09:22:09.035] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Nov 17, 2022 10:36:14.12 NEW SESSION
+Nov 17, 2022 10:36:14.13 [14860:13336:1117/103614.009:ERROR:device_event_log_impl.cc(215)] [10:36:14.010] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 17, 2022 10:36:14.14 [14860:13336:1117/103614.010:ERROR:device_event_log_impl.cc(215)] [10:36:14.010] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 17, 2022 10:37:11.847 [14860:19504:1117/103711.847:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Nov 17, 2022 10:37:16.776 [14860:17920:1117/103716.771:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 10:37:38.548 [14860:17920:1117/103738.548:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 10:38:23.58 [14860:17920:1117/103823.055:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 10:40:09.645 [14860:17920:1117/104009.645:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 10:42:41.744 [14860:17920:1117/104241.744:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 10:47:23.484 [14860:5356:1117/104723.484:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for 05599470-6bb6-409c-946e-85c33ecfc988.sync.upravel.com failed:
+Nov 17, 2022 10:47:23.484 ----- Certificate i=0 (CN=*.sync.upravel.com) -----
+Nov 17, 2022 10:47:23.488 ERROR: Time is after notAfter
+Nov 17, 2022 10:47:23.488 
+Nov 17, 2022 10:47:23.488 
+Nov 17, 2022 11:00:32.623 [14860:17920:1117/110032.622:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:00:32.623 [14860:17920:1117/110032.623:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:00:55.396 [14860:17920:1117/110055.395:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:00:58.793 [14860:17920:1117/110058.792:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:01:39.830 [14860:17920:1117/110139.830:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:01:47.630 [14860:17920:1117/110147.629:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:03:07.139 [14860:17920:1117/110307.139:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:03:09.68 [14860:17920:1117/110309.068:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:04:13.906 [14860:17920:1117/110413.905:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 17, 2022 11:04:13.907 [14860:17920:1117/110413.905:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 17, 2022 11:04:14.772 [14860:13336:1117/110414.772:ERROR:device_event_log_impl.cc(215)] [11:04:14.772] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 17, 2022 11:04:15.920 [14860:17920:1117/110415.919:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:04:15.922 [14860:17920:1117/110415.922:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 17, 2022 11:14:15.943 [14860:17920:1117/111415.942:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+
+thg 12 27, 2022 08:55:28.747 NEW SESSION
+thg 12 27, 2022 08:55:28.747 [10168:7248:1227/085528.698:ERROR:device_event_log_impl.cc(215)] [08:55:28.698] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 08:55:28.753 [10168:7248:1227/085528.700:ERROR:device_event_log_impl.cc(215)] [08:55:28.699] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 08:55:28.753 [10168:7248:1227/085528.726:ERROR:device_event_log_impl.cc(215)] [08:55:28.725] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 08:55:28.754 [10168:7648:1227/085528.747:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+thg 12 27, 2022 09:05:40.45 [6004:2940:1227/090540.043:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:05:40.96 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:05:40.98 ERROR: No matching issuer found
+thg 12 27, 2022 09:05:40.99 
+thg 12 27, 2022 09:05:40.99 
+thg 12 27, 2022 09:05:40.187 [6004:4620:1227/090540.186:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:05:40.187 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:05:40.188 ERROR: No matching issuer found
+thg 12 27, 2022 09:05:40.188 
+thg 12 27, 2022 09:05:40.189 
+thg 12 27, 2022 09:05:40.605 [6004:9788:1227/090540.605:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:05:40.606 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:05:40.606 ERROR: No matching issuer found
+thg 12 27, 2022 09:05:40.607 
+thg 12 27, 2022 09:05:40.607 
+thg 12 27, 2022 09:05:40.707 [6004:9788:1227/090540.706:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:05:40.707 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:05:40.707 ERROR: No matching issuer found
+thg 12 27, 2022 09:05:40.708 
+thg 12 27, 2022 09:05:40.708 
+thg 12 27, 2022 09:05:40.713 [6004:9788:1227/090540.712:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:05:40.713 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:05:40.714 ERROR: No matching issuer found
+thg 12 27, 2022 09:05:40.716 
+thg 12 27, 2022 09:05:40.717 
+thg 12 27, 2022 09:05:41.656 [6004:8232:1227/090541.655:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:05:41.656 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:05:41.657 ERROR: No matching issuer found
+thg 12 27, 2022 09:05:41.658 
+thg 12 27, 2022 09:05:41.658 
+
+thg 12 27, 2022 09:21:16.729 NEW SESSION
+thg 12 27, 2022 09:21:16.729 [8056:1876:1227/092116.727:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:21:16.780 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:21:16.782 ERROR: No matching issuer found
+thg 12 27, 2022 09:21:16.783 
+thg 12 27, 2022 09:21:16.784 
+thg 12 27, 2022 09:21:16.785 [8056:1876:1227/092116.734:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:21:16.786 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:21:16.786 ERROR: No matching issuer found
+thg 12 27, 2022 09:21:16.786 
+thg 12 27, 2022 09:21:16.787 
+thg 12 27, 2022 09:21:17.77 [8056:1960:1227/092117.077:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:21:17.77 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:21:17.78 ERROR: No matching issuer found
+thg 12 27, 2022 09:21:17.78 
+thg 12 27, 2022 09:21:17.79 
+thg 12 27, 2022 09:21:17.212 [8056:7212:1227/092117.211:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:21:17.212 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:21:17.212 ERROR: No matching issuer found
+thg 12 27, 2022 09:21:17.213 
+thg 12 27, 2022 09:21:17.213 
+thg 12 27, 2022 09:21:17.218 [8056:7212:1227/092117.218:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:21:17.218 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:21:17.219 ERROR: No matching issuer found
+thg 12 27, 2022 09:21:17.219 
+thg 12 27, 2022 09:21:17.220 
+thg 12 27, 2022 09:21:18.387 [8056:9780:1227/092118.387:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:21:18.388 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:21:18.389 ERROR: No matching issuer found
+thg 12 27, 2022 09:21:18.389 
+thg 12 27, 2022 09:21:18.390 
+thg 12 27, 2022 09:21:19.730 [8056:7628:1227/092119.730:ERROR:device_event_log_impl.cc(215)] [09:21:19.730] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:21:19.731 [8056:7628:1227/092119.731:ERROR:device_event_log_impl.cc(215)] [09:21:19.731] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:21:19.733 [8056:7628:1227/092119.732:ERROR:device_event_log_impl.cc(215)] [09:21:19.732] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:21:20.483 [8056:1960:1227/092120.483:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:21:20.484 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:21:20.485 ERROR: No matching issuer found
+thg 12 27, 2022 09:21:20.485 
+thg 12 27, 2022 09:21:20.486 
+thg 12 27, 2022 09:21:21.824 [8056:5332:1227/092121.823:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:21:22.238 [8056:7212:1227/092122.238:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:21:22.239 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:21:22.239 ERROR: No matching issuer found
+thg 12 27, 2022 09:21:22.240 
+thg 12 27, 2022 09:21:22.240 
+thg 12 27, 2022 09:24:44.737 [9400:6844:1227/092444.737:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:24:44.737 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:44.738 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:44.738 
+thg 12 27, 2022 09:24:44.738 
+thg 12 27, 2022 09:24:44.743 [9400:6844:1227/092444.742:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:24:44.743 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:44.743 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:44.743 
+thg 12 27, 2022 09:24:44.744 
+thg 12 27, 2022 09:24:44.886 [9400:6844:1227/092444.885:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:24:44.886 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:44.886 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:44.887 
+thg 12 27, 2022 09:24:44.887 
+thg 12 27, 2022 09:24:45.26 [9400:6844:1227/092445.026:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:24:45.27 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:45.28 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:45.28 
+thg 12 27, 2022 09:24:45.28 
+thg 12 27, 2022 09:24:45.38 [9400:6844:1227/092445.038:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:24:45.38 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:45.39 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:45.39 
+thg 12 27, 2022 09:24:45.39 
+thg 12 27, 2022 09:24:45.360 [9400:6844:1227/092445.359:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:24:45.360 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:45.361 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:45.361 
+thg 12 27, 2022 09:24:45.361 
+thg 12 27, 2022 09:24:46.916 [9400:7048:1227/092446.916:ERROR:device_event_log_impl.cc(215)] [09:24:46.916] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:24:46.917 [9400:7048:1227/092446.917:ERROR:device_event_log_impl.cc(215)] [09:24:46.917] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:24:46.918 [9400:7048:1227/092446.917:ERROR:device_event_log_impl.cc(215)] [09:24:46.918] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:24:47.69 [9400:6844:1227/092447.069:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:24:47.71 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:47.72 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:47.72 
+thg 12 27, 2022 09:24:47.72 
+thg 12 27, 2022 09:24:47.160 [9400:6844:1227/092447.160:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:24:47.161 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:47.162 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:47.162 
+thg 12 27, 2022 09:24:47.163 
+thg 12 27, 2022 09:24:48.298 [9400:8648:1227/092448.297:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:24:48.299 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:24:48.300 ERROR: No matching issuer found
+thg 12 27, 2022 09:24:48.300 
+thg 12 27, 2022 09:24:48.301 
+thg 12 27, 2022 09:24:49.02 [9400:5784:1227/092449.001:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:25:37.492 [9896:8024:1227/092537.492:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:25:37.493 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:25:37.493 ERROR: No matching issuer found
+thg 12 27, 2022 09:25:37.494 
+thg 12 27, 2022 09:25:37.495 
+thg 12 27, 2022 09:25:37.518 [9896:8024:1227/092537.518:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:25:37.519 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:25:37.520 ERROR: No matching issuer found
+thg 12 27, 2022 09:25:37.520 
+thg 12 27, 2022 09:25:37.520 
+thg 12 27, 2022 09:25:37.919 [9896:7012:1227/092537.916:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:25:37.920 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:25:37.921 ERROR: No matching issuer found
+thg 12 27, 2022 09:25:37.921 
+thg 12 27, 2022 09:25:37.922 
+thg 12 27, 2022 09:25:37.970 [9896:7012:1227/092537.969:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:25:37.970 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:25:37.971 ERROR: No matching issuer found
+thg 12 27, 2022 09:25:37.971 
+thg 12 27, 2022 09:25:37.971 
+thg 12 27, 2022 09:25:38.36 [9896:7012:1227/092538.036:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:25:38.37 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:25:38.37 ERROR: No matching issuer found
+thg 12 27, 2022 09:25:38.37 
+thg 12 27, 2022 09:25:38.38 
+thg 12 27, 2022 09:25:38.42 [9896:7012:1227/092538.041:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:25:38.42 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:25:38.43 ERROR: No matching issuer found
+thg 12 27, 2022 09:25:38.43 
+thg 12 27, 2022 09:25:38.43 
+thg 12 27, 2022 09:25:39.878 [9896:8456:1227/092539.877:ERROR:device_event_log_impl.cc(215)] [09:25:39.878] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:25:39.879 [9896:8456:1227/092539.878:ERROR:device_event_log_impl.cc(215)] [09:25:39.879] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:25:39.880 [9896:8456:1227/092539.880:ERROR:device_event_log_impl.cc(215)] [09:25:39.880] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:25:40.49 [9896:7012:1227/092540.049:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:25:40.50 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:25:40.50 ERROR: No matching issuer found
+thg 12 27, 2022 09:25:40.50 
+thg 12 27, 2022 09:25:40.51 
+thg 12 27, 2022 09:25:41.166 [9896:5484:1227/092541.165:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:25:41.167 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:25:41.167 ERROR: No matching issuer found
+thg 12 27, 2022 09:25:41.168 
+thg 12 27, 2022 09:25:41.169 
+thg 12 27, 2022 09:25:41.971 [9896:800:1227/092541.971:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:29:42.778 [856:9524:1227/092942.777:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:29:42.778 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:42.779 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:42.780 
+thg 12 27, 2022 09:29:42.780 
+thg 12 27, 2022 09:29:42.784 [856:9524:1227/092942.784:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:29:42.785 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:42.785 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:42.786 
+thg 12 27, 2022 09:29:42.786 
+thg 12 27, 2022 09:29:42.841 [856:9524:1227/092942.840:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:29:42.841 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:42.841 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:42.842 
+thg 12 27, 2022 09:29:42.843 
+thg 12 27, 2022 09:29:42.890 [856:9524:1227/092942.890:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:29:42.890 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:42.891 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:42.891 
+thg 12 27, 2022 09:29:42.891 
+thg 12 27, 2022 09:29:42.897 [856:9524:1227/092942.896:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:29:42.900 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:42.902 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:42.902 
+thg 12 27, 2022 09:29:42.902 
+thg 12 27, 2022 09:29:43.840 [856:5260:1227/092943.839:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:29:43.841 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:43.842 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:43.843 
+thg 12 27, 2022 09:29:43.843 
+thg 12 27, 2022 09:29:44.805 [856:8768:1227/092944.805:ERROR:device_event_log_impl.cc(215)] [09:29:44.805] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:29:44.807 [856:8768:1227/092944.806:ERROR:device_event_log_impl.cc(215)] [09:29:44.806] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:29:44.809 [856:8768:1227/092944.809:ERROR:device_event_log_impl.cc(215)] [09:29:44.809] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:29:45.36 [856:9864:1227/092945.035:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:29:45.36 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:45.36 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:45.37 
+thg 12 27, 2022 09:29:45.37 
+thg 12 27, 2022 09:29:45.290 [856:5260:1227/092945.290:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:29:45.291 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:45.291 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:45.292 
+thg 12 27, 2022 09:29:45.292 
+thg 12 27, 2022 09:29:46.187 [856:5260:1227/092946.187:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:29:46.188 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:29:46.189 ERROR: No matching issuer found
+thg 12 27, 2022 09:29:46.190 
+thg 12 27, 2022 09:29:46.191 
+thg 12 27, 2022 09:29:46.871 [856:8292:1227/092946.870:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:30:04.319 [4964:8284:1227/093004.317:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:30:04.319 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:04.319 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:04.320 
+thg 12 27, 2022 09:30:04.321 
+thg 12 27, 2022 09:30:04.326 [4964:8284:1227/093004.326:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:30:04.326 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:04.327 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:04.327 
+thg 12 27, 2022 09:30:04.327 
+thg 12 27, 2022 09:30:04.536 [4964:8284:1227/093004.535:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:30:04.536 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:04.536 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:04.536 
+thg 12 27, 2022 09:30:04.537 
+thg 12 27, 2022 09:30:04.653 [4964:8284:1227/093004.649:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:30:04.653 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:04.654 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:04.654 
+thg 12 27, 2022 09:30:04.654 
+thg 12 27, 2022 09:30:04.658 [4964:8284:1227/093004.657:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:30:04.658 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:04.658 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:04.658 
+thg 12 27, 2022 09:30:04.658 
+thg 12 27, 2022 09:30:05.134 [4964:8284:1227/093005.133:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:30:05.135 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:05.135 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:05.136 
+thg 12 27, 2022 09:30:05.136 
+thg 12 27, 2022 09:30:32.125 [4408:10100:1227/093032.125:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:30:32.125 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:32.126 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:32.126 
+thg 12 27, 2022 09:30:32.126 
+thg 12 27, 2022 09:30:32.438 [4408:8564:1227/093032.438:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:30:32.438 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:32.439 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:32.439 
+thg 12 27, 2022 09:30:32.440 
+thg 12 27, 2022 09:30:32.816 [4408:8564:1227/093032.815:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:30:32.817 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:32.818 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:32.819 
+thg 12 27, 2022 09:30:32.819 
+thg 12 27, 2022 09:30:32.827 [4408:8564:1227/093032.827:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:30:32.827 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:32.828 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:32.828 
+thg 12 27, 2022 09:30:32.828 
+thg 12 27, 2022 09:30:32.874 [4408:8564:1227/093032.873:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:30:32.874 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:32.874 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:32.875 
+thg 12 27, 2022 09:30:32.875 
+thg 12 27, 2022 09:30:32.879 [4408:8564:1227/093032.879:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:30:32.879 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:30:32.880 ERROR: No matching issuer found
+thg 12 27, 2022 09:30:32.880 
+thg 12 27, 2022 09:30:32.880 
+thg 12 27, 2022 09:31:03.71 [9188:2760:1227/093103.071:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:31:03.71 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:03.71 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:03.72 
+thg 12 27, 2022 09:31:03.72 
+thg 12 27, 2022 09:31:03.110 [9188:2760:1227/093103.110:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:31:03.111 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:03.111 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:03.111 
+thg 12 27, 2022 09:31:03.112 
+thg 12 27, 2022 09:31:03.209 [9188:1344:1227/093103.209:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:31:03.210 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:03.211 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:03.211 
+thg 12 27, 2022 09:31:03.211 
+thg 12 27, 2022 09:31:03.279 [9188:5048:1227/093103.279:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:31:03.280 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:03.280 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:03.280 
+thg 12 27, 2022 09:31:03.280 
+thg 12 27, 2022 09:31:03.288 [9188:5048:1227/093103.286:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:31:03.288 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:03.288 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:03.289 
+thg 12 27, 2022 09:31:03.289 
+thg 12 27, 2022 09:31:04.335 [9188:2156:1227/093104.334:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:31:04.335 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:04.335 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:04.336 
+thg 12 27, 2022 09:31:04.336 
+thg 12 27, 2022 09:31:27.45 [7760:4656:1227/093127.045:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:31:27.46 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:27.46 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:27.46 
+thg 12 27, 2022 09:31:27.46 
+thg 12 27, 2022 09:31:27.72 [7760:4656:1227/093127.070:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:31:27.72 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:27.73 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:27.73 
+thg 12 27, 2022 09:31:27.73 
+thg 12 27, 2022 09:31:27.432 [7760:1644:1227/093127.432:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:31:27.433 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:27.436 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:27.436 
+thg 12 27, 2022 09:31:27.436 
+thg 12 27, 2022 09:31:27.539 [7760:1644:1227/093127.538:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:31:27.540 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:27.540 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:27.540 
+thg 12 27, 2022 09:31:27.541 
+thg 12 27, 2022 09:31:27.543 [7760:1644:1227/093127.543:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:31:27.543 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:27.544 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:27.544 
+thg 12 27, 2022 09:31:27.545 
+thg 12 27, 2022 09:31:27.931 [7760:4656:1227/093127.929:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:31:27.932 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:31:27.932 ERROR: No matching issuer found
+thg 12 27, 2022 09:31:27.934 
+thg 12 27, 2022 09:31:27.934 
+thg 12 27, 2022 09:32:21.694 [1480:3460:1227/093221.694:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:32:21.695 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:21.695 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:21.695 
+thg 12 27, 2022 09:32:21.695 
+thg 12 27, 2022 09:32:21.703 [1480:3460:1227/093221.703:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:32:21.705 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:21.705 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:21.705 
+thg 12 27, 2022 09:32:21.706 
+thg 12 27, 2022 09:32:21.890 [1480:672:1227/093221.889:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:32:21.890 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:21.890 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:21.891 
+thg 12 27, 2022 09:32:21.891 
+thg 12 27, 2022 09:32:21.964 [1480:672:1227/093221.964:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:32:21.964 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:21.965 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:21.965 
+thg 12 27, 2022 09:32:21.965 
+thg 12 27, 2022 09:32:21.972 [1480:672:1227/093221.972:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:32:21.972 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:21.973 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:21.973 
+thg 12 27, 2022 09:32:21.973 
+thg 12 27, 2022 09:32:22.944 [1480:9980:1227/093222.943:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:32:22.944 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:22.945 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:22.945 
+thg 12 27, 2022 09:32:22.945 
+thg 12 27, 2022 09:32:23.909 [1480:7884:1227/093223.909:ERROR:device_event_log_impl.cc(215)] [09:32:23.908] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:32:23.910 [1480:7884:1227/093223.910:ERROR:device_event_log_impl.cc(215)] [09:32:23.909] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:32:23.911 [1480:7884:1227/093223.910:ERROR:device_event_log_impl.cc(215)] [09:32:23.910] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:32:24.197 [1480:568:1227/093224.197:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:32:24.198 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:24.198 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:24.198 
+thg 12 27, 2022 09:32:24.199 
+thg 12 27, 2022 09:32:48.557 [9764:4520:1227/093248.557:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:32:48.558 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:48.558 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:48.559 
+thg 12 27, 2022 09:32:48.559 
+thg 12 27, 2022 09:32:48.566 [9764:4520:1227/093248.566:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:32:48.567 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:48.567 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:48.567 
+thg 12 27, 2022 09:32:48.568 
+thg 12 27, 2022 09:32:48.665 [9764:2168:1227/093248.665:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:32:48.666 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:48.666 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:48.666 
+thg 12 27, 2022 09:32:48.667 
+thg 12 27, 2022 09:32:48.739 [9764:4520:1227/093248.739:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:32:48.739 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:48.739 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:48.740 
+thg 12 27, 2022 09:32:48.740 
+thg 12 27, 2022 09:32:48.745 [9764:4520:1227/093248.745:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:32:48.745 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:48.746 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:48.746 
+thg 12 27, 2022 09:32:48.746 
+thg 12 27, 2022 09:32:49.276 [9764:4520:1227/093249.274:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:32:49.276 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:32:49.276 ERROR: No matching issuer found
+thg 12 27, 2022 09:32:49.277 
+thg 12 27, 2022 09:32:49.277 
+thg 12 27, 2022 09:33:33.212 [5152:8564:1227/093333.212:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:33:33.212 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:33:33.213 ERROR: No matching issuer found
+thg 12 27, 2022 09:33:33.213 
+thg 12 27, 2022 09:33:33.213 
+thg 12 27, 2022 09:33:33.359 [5152:9576:1227/093333.358:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:33:33.359 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:33:33.359 ERROR: No matching issuer found
+thg 12 27, 2022 09:33:33.359 
+thg 12 27, 2022 09:33:33.360 
+thg 12 27, 2022 09:33:33.629 [5152:9576:1227/093333.628:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:33:33.629 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:33:33.629 ERROR: No matching issuer found
+thg 12 27, 2022 09:33:33.629 
+thg 12 27, 2022 09:33:33.629 
+thg 12 27, 2022 09:33:33.701 [5152:9576:1227/093333.701:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:33:33.701 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:33:33.702 ERROR: No matching issuer found
+thg 12 27, 2022 09:33:33.702 
+thg 12 27, 2022 09:33:33.702 
+thg 12 27, 2022 09:33:33.706 [5152:9576:1227/093333.706:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:33:33.707 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:33:33.707 ERROR: No matching issuer found
+thg 12 27, 2022 09:33:33.708 
+thg 12 27, 2022 09:33:33.708 
+thg 12 27, 2022 09:33:33.994 [5152:9576:1227/093333.994:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:33:33.994 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:33:33.994 ERROR: No matching issuer found
+thg 12 27, 2022 09:33:33.995 
+thg 12 27, 2022 09:33:33.995 
+thg 12 27, 2022 09:34:54.91 [9836:7004:1227/093454.091:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:34:54.92 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:54.92 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:54.92 
+thg 12 27, 2022 09:34:54.93 
+thg 12 27, 2022 09:34:54.111 [9836:7004:1227/093454.111:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:34:54.113 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:54.113 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:54.113 
+thg 12 27, 2022 09:34:54.113 
+thg 12 27, 2022 09:34:54.285 [9836:5996:1227/093454.285:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:34:54.286 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:54.286 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:54.287 
+thg 12 27, 2022 09:34:54.288 
+thg 12 27, 2022 09:34:54.374 [9836:1848:1227/093454.373:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:34:54.374 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:54.375 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:54.375 
+thg 12 27, 2022 09:34:54.375 
+thg 12 27, 2022 09:34:54.429 [9836:1848:1227/093454.429:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:34:54.429 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:54.429 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:54.430 
+thg 12 27, 2022 09:34:54.430 
+thg 12 27, 2022 09:34:54.436 [9836:1848:1227/093454.436:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:34:54.437 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:54.437 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:54.437 
+thg 12 27, 2022 09:34:54.437 
+thg 12 27, 2022 09:34:56.08 [9836:2080:1227/093456.008:ERROR:device_event_log_impl.cc(215)] [09:34:56.008] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:34:56.10 [9836:2080:1227/093456.009:ERROR:device_event_log_impl.cc(215)] [09:34:56.009] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:34:56.11 [9836:2080:1227/093456.011:ERROR:device_event_log_impl.cc(215)] [09:34:56.010] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:34:56.188 [9836:5996:1227/093456.188:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:34:56.188 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:56.189 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:56.189 
+thg 12 27, 2022 09:34:56.189 
+thg 12 27, 2022 09:34:57.436 [9836:5996:1227/093457.436:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:34:57.437 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:57.437 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:57.438 
+thg 12 27, 2022 09:34:57.439 
+thg 12 27, 2022 09:34:58.77 [9836:4808:1227/093458.076:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:34:58.528 [9836:5888:1227/093458.528:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:34:58.529 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:34:58.530 ERROR: No matching issuer found
+thg 12 27, 2022 09:34:58.530 
+thg 12 27, 2022 09:34:58.531 
+thg 12 27, 2022 09:35:43.648 [5432:4300:1227/093543.648:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:35:43.649 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:43.649 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:43.649 
+thg 12 27, 2022 09:35:43.649 
+thg 12 27, 2022 09:35:43.655 [5432:4300:1227/093543.655:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:35:43.656 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:43.656 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:43.656 
+thg 12 27, 2022 09:35:43.656 
+thg 12 27, 2022 09:35:43.662 [5432:4300:1227/093543.662:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:35:43.662 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:43.663 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:43.663 
+thg 12 27, 2022 09:35:43.663 
+thg 12 27, 2022 09:35:43.770 [5432:4300:1227/093543.770:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:35:43.771 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:43.771 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:43.771 
+thg 12 27, 2022 09:35:43.773 
+thg 12 27, 2022 09:35:43.777 [5432:4300:1227/093543.777:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:35:43.778 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:43.778 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:43.778 
+thg 12 27, 2022 09:35:43.779 
+thg 12 27, 2022 09:35:44.953 [5432:4300:1227/093544.953:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:35:44.954 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:44.955 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:44.955 
+thg 12 27, 2022 09:35:44.955 
+thg 12 27, 2022 09:35:45.11 [5432:4300:1227/093545.011:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+thg 12 27, 2022 09:35:45.12 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:45.12 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:45.13 
+thg 12 27, 2022 09:35:45.13 
+thg 12 27, 2022 09:35:46.398 [5432:6732:1227/093546.398:ERROR:device_event_log_impl.cc(215)] [09:35:46.398] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:35:46.399 [5432:6732:1227/093546.399:ERROR:device_event_log_impl.cc(215)] [09:35:46.400] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:35:46.400 [5432:6732:1227/093546.400:ERROR:device_event_log_impl.cc(215)] [09:35:46.401] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:35:46.576 [5432:9704:1227/093546.576:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:35:46.576 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:46.576 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:46.577 
+thg 12 27, 2022 09:35:46.577 
+thg 12 27, 2022 09:35:47.179 [5432:4300:1227/093547.179:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:35:47.180 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:47.180 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:47.180 
+thg 12 27, 2022 09:35:47.180 
+thg 12 27, 2022 09:35:47.643 [5432:9704:1227/093547.642:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+thg 12 27, 2022 09:35:47.643 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:47.643 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:47.643 
+thg 12 27, 2022 09:35:47.644 
+thg 12 27, 2022 09:35:48.473 [5432:9628:1227/093548.472:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:35:49.107 [5432:9704:1227/093549.106:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:35:49.107 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:35:49.107 ERROR: No matching issuer found
+thg 12 27, 2022 09:35:49.108 
+thg 12 27, 2022 09:35:49.108 
+thg 12 27, 2022 09:36:31.311 [5632:7648:1227/093631.310:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:36:31.311 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:36:31.311 ERROR: No matching issuer found
+thg 12 27, 2022 09:36:31.311 
+thg 12 27, 2022 09:36:31.312 
+thg 12 27, 2022 09:36:31.429 [5632:7648:1227/093631.429:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:36:31.430 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:36:31.430 ERROR: No matching issuer found
+thg 12 27, 2022 09:36:31.430 
+thg 12 27, 2022 09:36:31.430 
+thg 12 27, 2022 09:36:31.580 [5632:4868:1227/093631.580:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:36:31.580 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:36:31.580 ERROR: No matching issuer found
+thg 12 27, 2022 09:36:31.581 
+thg 12 27, 2022 09:36:31.581 
+thg 12 27, 2022 09:36:31.637 [5632:7648:1227/093631.635:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:36:31.638 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:36:31.638 ERROR: No matching issuer found
+thg 12 27, 2022 09:36:31.638 
+thg 12 27, 2022 09:36:31.639 
+thg 12 27, 2022 09:36:31.641 [5632:7648:1227/093631.641:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:36:31.642 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:36:31.642 ERROR: No matching issuer found
+thg 12 27, 2022 09:36:31.642 
+thg 12 27, 2022 09:36:31.642 
+thg 12 27, 2022 09:36:32.854 [5632:8232:1227/093632.854:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:36:32.855 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:36:32.855 ERROR: No matching issuer found
+thg 12 27, 2022 09:36:32.855 
+thg 12 27, 2022 09:36:32.855 
+thg 12 27, 2022 09:36:33.791 [5632:4912:1227/093633.791:ERROR:device_event_log_impl.cc(215)] [09:36:33.791] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:36:33.792 [5632:4912:1227/093633.792:ERROR:device_event_log_impl.cc(215)] [09:36:33.792] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:36:33.793 [5632:4912:1227/093633.793:ERROR:device_event_log_impl.cc(215)] [09:36:33.793] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:36:33.886 [5632:4868:1227/093633.885:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:36:33.887 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:36:33.888 ERROR: No matching issuer found
+thg 12 27, 2022 09:36:33.889 
+thg 12 27, 2022 09:36:33.889 
+thg 12 27, 2022 09:39:28.271 [4120:5732:1227/093928.271:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:39:28.273 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:28.273 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:28.273 
+thg 12 27, 2022 09:39:28.274 
+thg 12 27, 2022 09:39:28.285 [4120:5732:1227/093928.284:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:39:28.286 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:28.287 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:28.287 
+thg 12 27, 2022 09:39:28.287 
+thg 12 27, 2022 09:39:28.449 [4120:4808:1227/093928.448:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:39:28.449 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:28.449 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:28.449 
+thg 12 27, 2022 09:39:28.449 
+thg 12 27, 2022 09:39:28.540 [4120:4808:1227/093928.540:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:39:28.541 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:28.541 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:28.541 
+thg 12 27, 2022 09:39:28.541 
+thg 12 27, 2022 09:39:28.546 [4120:4808:1227/093928.545:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:39:28.546 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:28.546 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:28.546 
+thg 12 27, 2022 09:39:28.547 
+thg 12 27, 2022 09:39:29.638 [4120:4808:1227/093929.637:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:39:29.639 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:29.639 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:29.639 
+thg 12 27, 2022 09:39:29.640 
+thg 12 27, 2022 09:39:29.653 [4120:4808:1227/093929.652:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+thg 12 27, 2022 09:39:29.653 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:29.654 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:29.654 
+thg 12 27, 2022 09:39:29.654 
+thg 12 27, 2022 09:39:31.194 [4120:9600:1227/093931.194:ERROR:device_event_log_impl.cc(215)] [09:39:31.194] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:39:31.196 [4120:9600:1227/093931.195:ERROR:device_event_log_impl.cc(215)] [09:39:31.196] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:39:31.196 [4120:9600:1227/093931.196:ERROR:device_event_log_impl.cc(215)] [09:39:31.196] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:39:31.419 [4120:7600:1227/093931.419:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:39:31.419 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:31.419 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:31.420 
+thg 12 27, 2022 09:39:31.420 
+thg 12 27, 2022 09:39:31.789 [4120:7600:1227/093931.789:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:39:31.790 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:31.790 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:31.791 
+thg 12 27, 2022 09:39:31.792 
+thg 12 27, 2022 09:39:31.834 [4120:7600:1227/093931.833:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+thg 12 27, 2022 09:39:31.834 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:31.834 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:31.835 
+thg 12 27, 2022 09:39:31.835 
+thg 12 27, 2022 09:39:33.262 [4120:1316:1227/093933.261:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:39:33.802 [4120:4808:1227/093933.802:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:39:33.803 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:33.804 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:33.804 
+thg 12 27, 2022 09:39:33.805 
+thg 12 27, 2022 09:39:41.605 [4120:4808:1227/093941.605:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for optimizationguide-pa.googleapis.com failed:
+thg 12 27, 2022 09:39:41.605 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:41.606 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:41.606 
+thg 12 27, 2022 09:39:41.606 
+thg 12 27, 2022 09:39:58.155 [4120:6876:1227/093958.154:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for translate.googleapis.com failed:
+thg 12 27, 2022 09:39:58.156 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:39:58.156 ERROR: No matching issuer found
+thg 12 27, 2022 09:39:58.156 
+thg 12 27, 2022 09:39:58.157 
+thg 12 27, 2022 09:40:01.449 [4120:7600:1227/094001.449:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for mtalk.google.com failed:
+thg 12 27, 2022 09:40:01.449 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:40:01.450 ERROR: No matching issuer found
+thg 12 27, 2022 09:40:01.450 
+thg 12 27, 2022 09:40:01.450 
+thg 12 27, 2022 09:40:01.450 [4120:1316:1227/094001.450:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -202
+thg 12 27, 2022 09:40:27.589 [4120:8308:1227/094027.589:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+thg 12 27, 2022 09:40:27.611 [4120:6876:1227/094027.610:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:40:27.611 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:40:27.611 ERROR: No matching issuer found
+thg 12 27, 2022 09:40:27.612 
+thg 12 27, 2022 09:40:27.612 
+thg 12 27, 2022 09:40:49.717 [4120:1316:1227/094049.716:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:40:57.258 [4120:7600:1227/094057.257:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clients1.google.com failed:
+thg 12 27, 2022 09:40:57.259 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:40:57.259 ERROR: No matching issuer found
+thg 12 27, 2022 09:40:57.260 
+thg 12 27, 2022 09:40:57.261 
+thg 12 27, 2022 09:41:39.441 [4120:6876:1227/094139.441:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for beacons.gcp.gvt2.com failed:
+thg 12 27, 2022 09:41:39.442 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:41:39.442 ERROR: No matching issuer found
+thg 12 27, 2022 09:41:39.442 
+thg 12 27, 2022 09:41:39.443 
+thg 12 27, 2022 09:42:54.401 [5144:9628:1227/094254.400:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:42:54.402 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:54.403 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:54.403 
+thg 12 27, 2022 09:42:54.404 
+thg 12 27, 2022 09:42:54.407 [5144:9628:1227/094254.407:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:42:54.408 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:54.408 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:54.408 
+thg 12 27, 2022 09:42:54.409 
+thg 12 27, 2022 09:42:54.684 [5144:9628:1227/094254.684:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:42:54.691 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:54.691 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:54.691 
+thg 12 27, 2022 09:42:54.692 
+thg 12 27, 2022 09:42:54.699 [5144:9628:1227/094254.699:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:42:54.700 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:54.700 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:54.700 
+thg 12 27, 2022 09:42:54.700 
+thg 12 27, 2022 09:42:54.705 [5144:9628:1227/094254.704:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:42:54.705 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:54.705 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:54.706 
+thg 12 27, 2022 09:42:54.706 
+thg 12 27, 2022 09:42:55.951 [5144:9628:1227/094255.950:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+thg 12 27, 2022 09:42:55.952 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:55.952 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:55.952 
+thg 12 27, 2022 09:42:55.953 
+thg 12 27, 2022 09:42:55.958 [5144:9628:1227/094255.957:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:42:55.958 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:55.958 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:55.959 
+thg 12 27, 2022 09:42:55.960 
+thg 12 27, 2022 09:42:56.850 [5144:4476:1227/094256.850:ERROR:device_event_log_impl.cc(215)] [09:42:56.850] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:42:56.852 [5144:4476:1227/094256.851:ERROR:device_event_log_impl.cc(215)] [09:42:56.851] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:42:56.853 [5144:4476:1227/094256.852:ERROR:device_event_log_impl.cc(215)] [09:42:56.853] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:42:57.287 [5144:6780:1227/094257.287:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:42:57.288 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:57.288 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:57.288 
+thg 12 27, 2022 09:42:57.288 
+thg 12 27, 2022 09:42:57.950 [5144:9400:1227/094257.949:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+thg 12 27, 2022 09:42:57.950 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:57.950 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:57.950 
+thg 12 27, 2022 09:42:57.951 
+thg 12 27, 2022 09:42:57.965 [5144:9400:1227/094257.965:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:42:57.966 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:57.966 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:57.966 
+thg 12 27, 2022 09:42:57.967 
+thg 12 27, 2022 09:42:58.91 [5144:9400:1227/094258.091:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:42:58.92 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:42:58.92 ERROR: No matching issuer found
+thg 12 27, 2022 09:42:58.93 
+thg 12 27, 2022 09:42:58.93 
+thg 12 27, 2022 09:42:58.915 [5144:10040:1227/094258.914:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:43:07.388 [5144:6780:1227/094307.388:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for optimizationguide-pa.googleapis.com failed:
+thg 12 27, 2022 09:43:07.389 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:43:07.389 ERROR: No matching issuer found
+thg 12 27, 2022 09:43:07.390 
+thg 12 27, 2022 09:43:07.390 
+thg 12 27, 2022 09:43:25.254 [5144:6780:1227/094325.254:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for mtalk.google.com failed:
+thg 12 27, 2022 09:43:25.255 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:43:25.255 ERROR: No matching issuer found
+thg 12 27, 2022 09:43:25.255 
+thg 12 27, 2022 09:43:25.255 
+thg 12 27, 2022 09:43:25.256 [5144:10040:1227/094325.255:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -202
+thg 12 27, 2022 09:43:53.961 [5144:9740:1227/094353.961:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+thg 12 27, 2022 09:43:53.984 [5144:6780:1227/094353.984:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:43:53.985 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:43:53.985 ERROR: No matching issuer found
+thg 12 27, 2022 09:43:53.985 
+thg 12 27, 2022 09:43:53.985 
+thg 12 27, 2022 09:44:11.393 [5144:10040:1227/094411.393:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:44:23.577 [5144:9400:1227/094423.577:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clients1.google.com failed:
+thg 12 27, 2022 09:44:23.578 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:44:23.578 ERROR: No matching issuer found
+thg 12 27, 2022 09:44:23.578 
+thg 12 27, 2022 09:44:23.578 
+thg 12 27, 2022 09:45:34.53 [1736:6656:1227/094534.051:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:45:34.54 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:34.55 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:34.55 
+thg 12 27, 2022 09:45:34.107 
+thg 12 27, 2022 09:45:34.107 [1736:6656:1227/094534.066:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:45:34.108 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:34.112 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:34.112 
+thg 12 27, 2022 09:45:34.112 
+thg 12 27, 2022 09:45:34.276 [1736:3848:1227/094534.275:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:45:34.276 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:34.276 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:34.276 
+thg 12 27, 2022 09:45:34.277 
+thg 12 27, 2022 09:45:34.381 [1736:8296:1227/094534.381:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:45:34.382 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:34.382 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:34.382 
+thg 12 27, 2022 09:45:34.382 
+thg 12 27, 2022 09:45:34.427 [1736:8296:1227/094534.427:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:45:34.428 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:34.428 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:34.428 
+thg 12 27, 2022 09:45:34.428 
+thg 12 27, 2022 09:45:34.457 [1736:8296:1227/094534.457:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:45:34.457 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:34.457 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:34.458 
+thg 12 27, 2022 09:45:34.458 
+thg 12 27, 2022 09:45:35.970 [1736:4948:1227/094535.969:ERROR:device_event_log_impl.cc(215)] [09:45:35.970] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:45:35.971 [1736:4948:1227/094535.971:ERROR:device_event_log_impl.cc(215)] [09:45:35.971] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:45:35.972 [1736:4948:1227/094535.971:ERROR:device_event_log_impl.cc(215)] [09:45:35.971] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:45:36.116 [1736:6656:1227/094536.116:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:45:36.117 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:36.117 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:36.117 
+thg 12 27, 2022 09:45:36.117 
+thg 12 27, 2022 09:45:36.167 [1736:6656:1227/094536.167:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:45:36.168 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:36.168 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:36.168 
+thg 12 27, 2022 09:45:36.168 
+thg 12 27, 2022 09:45:37.495 [1736:8512:1227/094537.495:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:45:37.496 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:45:37.496 ERROR: No matching issuer found
+thg 12 27, 2022 09:45:37.497 
+thg 12 27, 2022 09:45:37.497 
+thg 12 27, 2022 09:45:38.50 [1736:5332:1227/094538.049:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:51:34.258 [3928:5696:1227/095134.258:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:51:34.259 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:34.259 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:34.259 
+thg 12 27, 2022 09:51:34.260 
+thg 12 27, 2022 09:51:34.266 [3928:5696:1227/095134.265:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:51:34.266 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:34.266 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:34.267 
+thg 12 27, 2022 09:51:34.267 
+thg 12 27, 2022 09:51:34.474 [3928:5696:1227/095134.473:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:51:34.474 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:34.474 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:34.474 
+thg 12 27, 2022 09:51:34.475 
+thg 12 27, 2022 09:51:34.629 [3928:4668:1227/095134.629:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:51:34.629 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:34.630 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:34.630 
+thg 12 27, 2022 09:51:34.630 
+thg 12 27, 2022 09:51:34.634 [3928:4668:1227/095134.634:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:51:34.635 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:34.635 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:34.635 
+thg 12 27, 2022 09:51:34.636 
+thg 12 27, 2022 09:51:35.582 [3928:3012:1227/095135.582:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:51:35.583 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:35.583 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:35.584 
+thg 12 27, 2022 09:51:35.584 
+thg 12 27, 2022 09:51:37.314 [3928:9684:1227/095137.314:ERROR:device_event_log_impl.cc(215)] [09:51:37.314] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:51:37.316 [3928:9684:1227/095137.315:ERROR:device_event_log_impl.cc(215)] [09:51:37.315] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:51:37.317 [3928:9684:1227/095137.316:ERROR:device_event_log_impl.cc(215)] [09:51:37.317] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:51:37.568 [3928:5696:1227/095137.567:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:51:37.568 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:37.568 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:37.569 
+thg 12 27, 2022 09:51:37.569 
+thg 12 27, 2022 09:51:37.974 [3928:3012:1227/095137.974:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:51:37.975 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:37.975 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:37.975 
+thg 12 27, 2022 09:51:37.975 
+thg 12 27, 2022 09:51:51.993 [1376:3476:1227/095151.992:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:51:51.993 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:51.993 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:51.993 
+thg 12 27, 2022 09:51:51.994 
+thg 12 27, 2022 09:51:52.01 [1376:3476:1227/095152.000:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:51:52.01 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:52.01 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:52.02 
+thg 12 27, 2022 09:51:52.02 
+thg 12 27, 2022 09:51:52.375 [1376:4300:1227/095152.375:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:51:52.376 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:52.376 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:52.377 
+thg 12 27, 2022 09:51:52.377 
+thg 12 27, 2022 09:51:52.463 [1376:4300:1227/095152.463:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:51:52.463 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:52.464 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:52.464 
+thg 12 27, 2022 09:51:52.464 
+thg 12 27, 2022 09:51:52.468 [1376:4300:1227/095152.468:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:51:52.469 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:52.469 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:52.472 
+thg 12 27, 2022 09:51:52.473 
+thg 12 27, 2022 09:51:52.786 [1376:8232:1227/095152.786:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:51:52.787 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:52.787 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:52.787 
+thg 12 27, 2022 09:51:52.787 
+thg 12 27, 2022 09:51:54.985 [1376:6424:1227/095154.985:ERROR:device_event_log_impl.cc(215)] [09:51:54.985] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:51:54.986 [1376:6424:1227/095154.985:ERROR:device_event_log_impl.cc(215)] [09:51:54.985] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:51:54.987 [1376:6424:1227/095154.986:ERROR:device_event_log_impl.cc(215)] [09:51:54.986] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:51:55.117 [1376:4300:1227/095155.117:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for update.googleapis.com failed:
+thg 12 27, 2022 09:51:55.117 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:55.117 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:55.118 
+thg 12 27, 2022 09:51:55.118 
+thg 12 27, 2022 09:51:55.813 [1376:8232:1227/095155.813:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:51:55.814 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:51:55.815 ERROR: No matching issuer found
+thg 12 27, 2022 09:51:55.815 
+thg 12 27, 2022 09:51:55.816 
+thg 12 27, 2022 09:51:57.46 [1376:9324:1227/095157.045:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -102
+thg 12 27, 2022 09:56:12.78 [10204:7404:1227/095612.077:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:56:12.78 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:12.78 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:12.78 
+thg 12 27, 2022 09:56:12.79 
+thg 12 27, 2022 09:56:12.100 [10204:7404:1227/095612.099:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:56:12.100 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:12.100 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:12.100 
+thg 12 27, 2022 09:56:12.100 
+thg 12 27, 2022 09:56:12.292 [10204:4240:1227/095612.292:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:56:12.292 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:12.293 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:12.293 
+thg 12 27, 2022 09:56:12.293 
+thg 12 27, 2022 09:56:12.347 [10204:4240:1227/095612.346:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:56:12.347 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:12.347 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:12.347 
+thg 12 27, 2022 09:56:12.347 
+thg 12 27, 2022 09:56:12.352 [10204:4240:1227/095612.352:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:56:12.352 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:12.353 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:12.353 
+thg 12 27, 2022 09:56:12.353 
+thg 12 27, 2022 09:56:13.424 [10204:4824:1227/095613.423:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for www.googleapis.com failed:
+thg 12 27, 2022 09:56:13.424 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:13.424 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:13.425 
+thg 12 27, 2022 09:56:13.425 
+thg 12 27, 2022 09:56:13.431 [10204:4824:1227/095613.431:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+thg 12 27, 2022 09:56:13.432 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:13.432 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:13.433 
+thg 12 27, 2022 09:56:13.433 
+thg 12 27, 2022 09:56:15.20 [10204:9960:1227/095615.020:ERROR:device_event_log_impl.cc(215)] [09:56:15.020] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:56:15.22 [10204:9960:1227/095615.021:ERROR:device_event_log_impl.cc(215)] [09:56:15.021] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 09:56:15.22 [10204:9960:1227/095615.021:ERROR:device_event_log_impl.cc(215)] [09:56:15.022] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 09:56:25.455 [5224:9432:1227/095625.454:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for clientservices.googleapis.com failed:
+thg 12 27, 2022 09:56:25.457 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:25.459 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:25.460 
+thg 12 27, 2022 09:56:25.460 
+thg 12 27, 2022 09:56:25.491 [5224:9432:1227/095625.491:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for accounts.google.com failed:
+thg 12 27, 2022 09:56:25.491 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:25.492 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:25.492 
+thg 12 27, 2022 09:56:25.492 
+thg 12 27, 2022 09:56:25.747 [5224:9652:1227/095625.747:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for api.adblock-for-youtube.com failed:
+thg 12 27, 2022 09:56:25.747 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:25.747 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:25.747 
+thg 12 27, 2022 09:56:25.748 
+thg 12 27, 2022 09:56:25.825 [5224:9652:1227/095625.825:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cdn.unistream.io failed:
+thg 12 27, 2022 09:56:25.825 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:25.825 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:25.826 
+thg 12 27, 2022 09:56:25.826 
+thg 12 27, 2022 09:56:25.830 [5224:9652:1227/095625.830:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for data.unistream.io failed:
+thg 12 27, 2022 09:56:25.830 ----- Certificate i=0 (emailAddress=zane@zte.com.cn,CN=192.168.1.1,OU=Wireline Product R&D Institute,O=ZTE,L=Nanjing,ST=JiangSu,C=CN) -----
+thg 12 27, 2022 09:56:25.831 ERROR: No matching issuer found
+thg 12 27, 2022 09:56:25.831 
+thg 12 27, 2022 09:56:25.831 
+thg 12 27, 2022 09:58:30.336 [840:9088:1227/095830.336:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+thg 12 27, 2022 10:01:58.566 [6392:9972:1227/100158.565:ERROR:device_event_log_impl.cc(215)] [10:01:58.565] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:01:58.566 [6392:9972:1227/100158.566:ERROR:device_event_log_impl.cc(215)] [10:01:58.566] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:01:58.590 [6392:9972:1227/100158.590:ERROR:device_event_log_impl.cc(215)] [10:01:58.589] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 10:02:39.884 [9616:6996:1227/100239.883:ERROR:device_event_log_impl.cc(215)] [10:02:39.884] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:02:39.884 [9616:6996:1227/100239.883:ERROR:device_event_log_impl.cc(215)] [10:02:39.884] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 10:02:39.885 [9616:6996:1227/100239.884:ERROR:device_event_log_impl.cc(215)] [10:02:39.885] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:08:06.400 [3692:5632:1227/100806.400:ERROR:device_event_log_impl.cc(215)] [10:08:06.400] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:08:06.401 [3692:5632:1227/100806.401:ERROR:device_event_log_impl.cc(215)] [10:08:06.401] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 10:08:06.475 [3692:5632:1227/100806.402:ERROR:device_event_log_impl.cc(215)] [10:08:06.401] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:08:06.486 [3692:2336:1227/100806.423:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+thg 12 27, 2022 10:08:34.96 [3692:2336:1227/100834.096:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+thg 12 27, 2022 10:09:02.753 [3692:3712:1227/100902.753:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+thg 12 27, 2022 10:09:44.293 [4760:9580:1227/100944.293:ERROR:device_event_log_impl.cc(215)] [10:09:44.294] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 10:09:44.294 [4760:9580:1227/100944.294:ERROR:device_event_log_impl.cc(215)] [10:09:44.295] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:09:44.295 [4760:9580:1227/100944.295:ERROR:device_event_log_impl.cc(215)] [10:09:44.296] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:09:44.312 [4760:10024:1227/100944.312:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+thg 12 27, 2022 10:12:07.456 [3560:280:1227/101207.456:ERROR:device_event_log_impl.cc(215)] [10:12:07.457] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:12:07.458 [3560:280:1227/101207.457:ERROR:device_event_log_impl.cc(215)] [10:12:07.458] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:12:07.461 [3560:280:1227/101207.461:ERROR:device_event_log_impl.cc(215)] [10:12:07.461] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 10:12:07.509 [3560:3976:1227/101207.509:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+thg 12 27, 2022 10:23:44.356 [412:6388:1227/102344.356:ERROR:device_event_log_impl.cc(215)] [10:23:44.356] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:23:44.357 [412:6388:1227/102344.357:ERROR:device_event_log_impl.cc(215)] [10:23:44.357] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 12 27, 2022 10:23:44.358 [412:6388:1227/102344.358:ERROR:device_event_log_impl.cc(215)] [10:23:44.357] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 12 27, 2022 10:23:44.376 [412:3800:1227/102344.376:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+thg 12 27, 2022 10:24:07.733 [412:3800:1227/102407.733:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+thg 12 27, 2022 10:24:26.997 [412:3800:1227/102426.996:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+thg 1 09, 2023 18:50:23.210 NEW SESSION
+thg 1 09, 2023 18:50:23.210 [8156:6804:0109/185023.150:ERROR:device_event_log_impl.cc(215)] [18:50:23.150] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+thg 1 09, 2023 18:50:23.509 [8156:6804:0109/185023.508:ERROR:device_event_log_impl.cc(215)] [18:50:23.508] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+thg 1 09, 2023 18:50:34.613 [8156:7856:0109/185034.613:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Apr 11, 2023 10:27:39.85 NEW SESSION
+Apr 11, 2023 10:27:39.85 [16840:19172:0411/102739.084:ERROR:device_event_log_impl.cc(222)] [10:27:39.083] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 10:27:39.85 [16840:19172:0411/102739.084:ERROR:device_event_log_impl.cc(222)] [10:27:39.084] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 10:27:39.223 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 11, 2023 11:16:49.835 NEW SESSION
+Apr 11, 2023 11:16:49.835 [11820:17064:0411/111649.832:ERROR:device_event_log_impl.cc(222)] [11:16:49.832] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 11:16:49.835 [11820:17064:0411/111649.832:ERROR:device_event_log_impl.cc(222)] [11:16:49.832] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 11:16:50.30 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 11:17:51.986 [13260:17592:0411/111751.985:ERROR:device_event_log_impl.cc(222)] [11:17:51.985] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 11:17:51.986 [13260:17592:0411/111751.986:ERROR:device_event_log_impl.cc(222)] [11:17:51.986] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 11:17:52.136 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 11:26:27.109 [13944:12688:0411/112627.108:ERROR:device_event_log_impl.cc(222)] [11:26:27.108] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 11:26:27.110 [13944:12688:0411/112627.110:ERROR:device_event_log_impl.cc(222)] [11:26:27.110] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 11:26:27.272 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 11:58:36.95 [13944:15464:0411/115836.095:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Apr 11, 2023 12:10:33.297 [13944:15464:0411/121033.297:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Apr 11, 2023 12:19:25.675 [13944:15464:0411/121925.675:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+
+Apr 11, 2023 15:19:02.163 NEW SESSION
+Apr 11, 2023 15:19:02.163 [14568:1520:0411/151902.162:ERROR:device_event_log_impl.cc(222)] [15:19:02.162] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 15:19:02.164 [14568:1520:0411/151902.163:ERROR:device_event_log_impl.cc(222)] [15:19:02.163] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 15:19:02.384 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 15, 2023 12:33:27.628 NEW SESSION
+Apr 15, 2023 12:33:27.628 [25252:4928:0415/123327.617:ERROR:device_event_log_impl.cc(222)] [12:33:27.616] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2023 12:33:27.628 [25252:4928:0415/123327.617:ERROR:device_event_log_impl.cc(222)] [12:33:27.616] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2023 12:33:27.780 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 09, 2023 09:40:39.966 NEW SESSION
+May 09, 2023 09:40:39.966 [25976:23848:0509/094039.965:ERROR:device_event_log_impl.cc(222)] [09:40:39.965] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2023 09:40:39.966 [25976:23848:0509/094039.965:ERROR:device_event_log_impl.cc(222)] [09:40:39.965] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2023 09:40:40.448 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 09, 2023 09:40:59.308 [25976:20836:0509/094059.308:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Jun 12, 2023 08:55:09.324 NEW SESSION
+Jun 12, 2023 08:55:09.324 [6732:11732:0612/085509.246:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 12, 2023 08:58:47.20 [6732:11732:0612/085847.020:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2

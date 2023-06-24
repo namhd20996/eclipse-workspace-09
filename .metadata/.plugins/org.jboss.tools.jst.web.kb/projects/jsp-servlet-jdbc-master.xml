@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Duy Nam/.m2/repository/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.3/jackson-annotations-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/weld/servlet/weld-servlet/1.1.0.Final/weld-servlet-1.1.0.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/opensymphony/sitemesh/2.4.2/sitemesh-2.4.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="Java_Four_Assign"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/jsp-api/2.0/jsp-api-2.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="Java_Four_Assign"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;%2;" path="%0"/>
+   <linked-resource name="%2;" path="%3"/>
+   <linked-resource name="%1;%5;" path="%4"/>
+   <linked-resource name="%0;%4;" path="%6"/>
+   <linked-resource name="%0;%4;" path="%7"/>
+   <linked-resource name="%2;" path="%8"/>
+   <linked-resource name="%1;%5;" path="%9"/>
+   <linked-resource name="%4;" path="%10"/>
+   <linked-resource name="%1;%2;" path="%11"/>
+   <linked-resource name="%0;%4;" path="%12"/>
+   <linked-resource name="%4;" path="%13"/>
+   <linked-resource name="%0;%4;" path="%14"/>
+  </core>
+  <el>
+   <linked-el length="22" name="%15" offset="1061" path="%16"/>
+   <linked-el length="18" name="%17" offset="907" path="%16"/>
+   <linked-el length="22" name="%18" offset="1061" path="%16"/>
+   <linked-el length="20" name="%19" offset="1204" path="%20"/>
+   <linked-el length="24" name="%19" offset="851" path="%20"/>
+   <linked-el length="21" name="%19" offset="968" path="%20"/>
+   <linked-el length="21" name="%19" offset="940" path="%21"/>
+   <linked-el length="27" name="%22" offset="4076" path="%23"/>
+   <linked-el length="21" name="%24" offset="968" path="%20"/>
+   <linked-el length="21" name="%24" offset="940" path="%21"/>
+   <linked-el length="14" name="%25" offset="1781" path="%23"/>
+   <linked-el length="15" name="%25" offset="2249" path="%23"/>
+   <linked-el length="19" name="%26" offset="1338" path="%16"/>
+   <linked-el length="22" name="%27" offset="538" path="%28"/>
+   <linked-el length="22" name="%27" offset="1011" path="%23"/>
+   <linked-el length="22" name="%27" offset="1019" path="%29"/>
+   <linked-el length="21" name="%30" offset="2475" path="%29"/>
+   <linked-el length="16" name="%31" offset="4618" path="%23"/>
+   <linked-el length="19" name="%32" offset="5215" path="%23"/>
+   <linked-el length="23" name="%32" offset="4944" path="%23"/>
+   <linked-el length="14" name="%32" offset="5560" path="%23"/>
+   <linked-el length="16" name="%33" offset="1488" path="%16"/>
+   <linked-el length="27" name="%34" offset="4076" path="%23"/>
+   <linked-el length="19" name="%34" offset="5215" path="%23"/>
+   <linked-el length="23" name="%34" offset="4944" path="%23"/>
+   <linked-el length="20" name="%34" offset="3569" path="%23"/>
+   <linked-el length="16" name="%34" offset="3077" path="%23"/>
+   <linked-el length="29" name="%34" offset="1510" path="%23"/>
+   <linked-el length="33" name="%34" offset="1974" path="%23"/>
+   <linked-el length="21" name="%34" offset="2475" path="%29"/>
+   <linked-el length="14" name="%34" offset="5560" path="%23"/>
+   <linked-el length="16" name="%34" offset="4618" path="%23"/>
+   <linked-el length="15" name="%35" offset="1702" path="%23"/>
+   <linked-el length="15" name="%35" offset="2170" path="%23"/>
+   <linked-el length="22" name="%36" offset="1061" path="%16"/>
+   <linked-el length="18" name="%37" offset="907" path="%16"/>
+   <linked-el length="18" name="%38" offset="907" path="%16"/>
+   <linked-el length="23" name="%39" offset="1644" path="%16"/>
+   <linked-el length="12" name="%40" offset="2396" path="%23"/>
+   <linked-el length="22" name="%40" offset="2562" path="%29"/>
+   <linked-el length="13" name="%40" offset="2628" path="%29"/>
+   <linked-el length="12" name="%40" offset="2868" path="%29"/>
+   <linked-el length="12" name="%40" offset="1796" path="%23"/>
+   <linked-el length="14" name="%40" offset="1781" path="%23"/>
+   <linked-el length="24" name="%40" offset="2666" path="%29"/>
+   <linked-el length="15" name="%40" offset="2249" path="%23"/>
+   <linked-el length="12" name="%40" offset="2590" path="%29"/>
+   <linked-el length="24" name="%41" offset="2666" path="%29"/>
+   <linked-el length="10" name="%42" offset="569" path="%28"/>
+   <linked-el length="22" name="%42" offset="498" path="%28"/>
+   <linked-el length="12" name="%43" offset="2396" path="%23"/>
+   <linked-el length="12" name="%43" offset="1796" path="%23"/>
+   <linked-el length="16" name="%44" offset="3077" path="%23"/>
+   <linked-el length="13" name="%45" offset="2628" path="%29"/>
+   <linked-el length="15" name="%46" offset="1197" path="%16"/>
+   <linked-el length="20" name="%47" offset="3569" path="%23"/>
+   <linked-el length="23" name="%48" offset="1644" path="%16"/>
+   <linked-el length="12" name="%49" offset="3039" path="%29"/>
+   <linked-el length="18" name="%50" offset="1055" path="%29"/>
+   <linked-el length="30" name="%50" offset="959" path="%23"/>
+   <linked-el length="30" name="%50" offset="967" path="%29"/>
+   <linked-el length="18" name="%50" offset="1047" path="%23"/>
+   <linked-el length="22" name="%51" offset="2562" path="%29"/>
+   <linked-el length="12" name="%51" offset="2868" path="%29"/>
+   <linked-el length="12" name="%51" offset="2590" path="%29"/>
+   <linked-el length="15" name="%52" offset="1197" path="%16"/>
+   <linked-el length="23" name="%53" offset="1644" path="%16"/>
+   <linked-el length="29" name="%54" offset="1510" path="%23"/>
+   <linked-el length="33" name="%54" offset="1974" path="%23"/>
+   <linked-el length="19" name="%55" offset="1338" path="%16"/>
+   <linked-el length="16" name="%56" offset="1488" path="%16"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/webapp/common/admin/header.jsp" value="%21"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/service/ICategoryService.java" value="%11"/>
+  <alias path="servlet" value="%18"/>
+  <alias path="USERMODEL" value="%19"/>
+  <alias path="model.shortDescription" value="%22"/>
+  <alias path="USERMODEL.fullName" value="%24"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/webapp/views/admin/new/edit.jsp" value="%23"/>
+  <alias path="model.listResult" value="%30"/>
+  <alias path="model.content" value="%31"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/service/impl/UserService.java" value="%3"/>
+  <alias path="model.id" value="%32"/>
+  <alias path="mysql" value="%33"/>
+  <alias path="model" value="%34"/>
+  <alias path="servlet.api" value="%36"/>
+  <alias path="jsp.api" value="%38"/>
+  <alias path="weld.servlet" value="%39"/>
+  <alias path="item" value="%40"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/dao/impl/CategoryDAO.java" value="%6"/>
+  <alias path="item.name" value="%43"/>
+  <alias path="model.title" value="%44"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/dao/INewDAO.java" value="%10"/>
+  <alias path="item.title" value="%45"/>
+  <alias path="jstl" value="%46"/>
+  <alias path="model.thumbnail" value="%47"/>
+  <alias path="messageResponse" value="%50"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/service/INewService.java" value="%9"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/dao/GenericDAO.java" value="%12"/>
+  <alias path="/jsp-servlet-jdbc-master/src/main/webapp/views/login.jsp" value="%28"/>
+  <alias path="jstl.version" value="%52"/>
+  <alias path="weld.servlet.version" value="%53"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/controller/web/HomeController.java" value="%2"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/service/impl/NewService.java" value="%4"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/service/IUserService.java" value="%8"/>
+  <alias path="mysql.version" value="%56"/>
+  <alias path="servlet.api.version" value="%15"/>
+  <alias path="jsp" value="%17"/>
+  <alias path="item.code" value="%25"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/controller/admin/api/NewAPI.java" value="%5"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/dao/impl/NewDAO.java" value="%13"/>
+  <alias path="sitemesh.version" value="%26"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/service/impl/CategoryService.java" value="%0"/>
+  <alias path="alert" value="%27"/>
+  <alias path="/jsp-servlet-jdbc-master/pom.xml" value="%16"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/webapp/views/admin/new/list.jsp" value="%29"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/dao/ICategoryDAO.java" value="%7"/>
+  <alias path="categories" value="%35"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/webapp/common/web/header.jsp" value="%20"/>
+  <alias path="jsp.api.version" value="%37"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/controller/admin/NewController.java" value="%1"/>
+  <alias path="item.shortDescription" value="%41"/>
+  <alias path="message" value="%42"/>
+  <alias path="weld" value="%48"/>
+  <alias path="editURL" value="%49"/>
+  <alias path="item.id" value="%51"/>
+  <alias
+   path="/jsp-servlet-jdbc-master/src/main/java/com/laptrinhjavaweb/dao/impl/AbstractDAO.java" value="%14"/>
+  <alias path="model.categoryCode" value="%54"/>
+  <alias path="sitemesh" value="%55"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://www.opensymphony.com/sitemesh/decorator">
+   <prefix>dec</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

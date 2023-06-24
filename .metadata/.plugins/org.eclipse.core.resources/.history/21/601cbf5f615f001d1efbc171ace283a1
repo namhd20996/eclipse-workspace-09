@@ -1,0 +1,64 @@
+package dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.util.ArrayList;
+
+import database.JDBCUtil;
+import model.TheLoaiModel;
+
+public class TheLoaiDao implements DAOInterface<TheLoaiModel>{
+	
+	public static TheLoaiDao getInstance() {
+		return new TheLoaiDao();
+	}
+	
+	@Override
+	public int insert(TheLoaiModel t) {
+		int result = 0;
+		try {
+			Connection connection = JDBCUtil.getConnection();
+			String sql = "insert into theloai (maTheLoai, tenTheLoai) values " + "(?, ?)";
+			PreparedStatement pst = connection.prepareStatement(sql);
+			pst.setString(1, t.getMaTheLoai());
+			pst.setString(2, t.getTenTheLoai());
+			result = pst.executeUpdate();
+			System.out.println("Đã thực thi " + result + " dòng");
+			JDBCUtil.closeConnection(connection);
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		return result;
+	}
+
+	@Override
+	public int update(TheLoaiModel t) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int delete(TheLoaiModel t) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public ArrayList<TheLoaiModel> selectAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public TheLoaiModel selectById(TheLoaiModel t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public TheLoaiModel selectByCondition(String t) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

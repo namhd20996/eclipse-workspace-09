@@ -1,0 +1,47 @@
+package learning;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+import model.Calculator;
+
+class CaculatorTest {
+	
+	private Calculator calculator;
+
+	@BeforeAll
+	static void setUpBeforeClass() throws Exception {
+		System.out.println("setUpBeforeClass");
+	}
+
+	@AfterAll
+	static void tearDownAfterClass() throws Exception {
+		System.out.println("tearDownAfterClass");
+	}
+
+	@BeforeEach
+	void setUp() throws Exception {
+		System.out.println("setUp");
+	}
+
+	@AfterEach
+	void tearDown() throws Exception {
+		System.out.println("tearDown");
+	}
+
+	@Test
+	void testPhepTru() {
+		System.out.println("testPhepTru");
+	}
+
+	@Test
+	void testPhepCong() {
+		System.out.println("testPhepCong");
+	}
+
+}

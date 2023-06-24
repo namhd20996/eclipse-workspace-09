@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/10.2.0.jre17/mssql-jdbc-10.2.0.jre17.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/modelmapper/modelmapper/2.3.5/modelmapper-2.3.5.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/jsp-api/2.0/jsp-api-2.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="Java_Four_Assign"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.3/jackson-annotations-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/hibernate/hibernate-core/5.6.14.Final/hibernate-core-5.6.14.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/weld/servlet/weld-servlet/1.1.0.Final/weld-servlet-1.1.0.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/opensymphony/sitemesh/2.4.2/sitemesh-2.4.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="Java_Four_Assign"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/apache/commons/commons-email/1.5/commons-email-1.5.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="22" name="%0" offset="2273" path="%1"/>
+   <linked-el length="20" name="%2" offset="1614" path="%1"/>
+   <linked-el length="25" name="%3" offset="1443" path="%1"/>
+   <linked-el length="18" name="%4" offset="2114" path="%1"/>
+   <linked-el length="22" name="%5" offset="2273" path="%1"/>
+   <linked-el length="27" name="%6" offset="3600" path="%1"/>
+   <linked-el length="27" name="%6" offset="3426" path="%1"/>
+   <linked-el length="20" name="%7" offset="1963" path="%1"/>
+   <linked-el length="25" name="%8" offset="1443" path="%1"/>
+   <linked-el length="17" name="%9" offset="3085" path="%1"/>
+   <linked-el length="17" name="%9" offset="2915" path="%1"/>
+   <linked-el length="17" name="%9" offset="3258" path="%1"/>
+   <linked-el length="20" name="%10" offset="1614" path="%1"/>
+   <linked-el length="19" name="%11" offset="2560" path="%1"/>
+   <linked-el length="22" name="%12" offset="1273" path="%1"/>
+   <linked-el length="22" name="%13" offset="2273" path="%1"/>
+   <linked-el length="18" name="%14" offset="2114" path="%1"/>
+   <linked-el length="27" name="%15" offset="3600" path="%1"/>
+   <linked-el length="27" name="%15" offset="3426" path="%1"/>
+   <linked-el length="20" name="%16" offset="1963" path="%1"/>
+   <linked-el length="18" name="%17" offset="2114" path="%1"/>
+   <linked-el length="23" name="%18" offset="2724" path="%1"/>
+   <linked-el length="22" name="%19" offset="1273" path="%1"/>
+   <linked-el length="25" name="%20" offset="1443" path="%1"/>
+   <linked-el length="17" name="%21" offset="1777" path="%1"/>
+   <linked-el length="17" name="%22" offset="1777" path="%1"/>
+   <linked-el length="15" name="%23" offset="2414" path="%1"/>
+   <linked-el length="17" name="%24" offset="3085" path="%1"/>
+   <linked-el length="17" name="%24" offset="2915" path="%1"/>
+   <linked-el length="17" name="%24" offset="3258" path="%1"/>
+   <linked-el length="23" name="%25" offset="2724" path="%1"/>
+   <linked-el length="27" name="%26" offset="3600" path="%1"/>
+   <linked-el length="27" name="%26" offset="3426" path="%1"/>
+   <linked-el length="15" name="%27" offset="2414" path="%1"/>
+   <linked-el length="23" name="%28" offset="2724" path="%1"/>
+   <linked-el length="19" name="%29" offset="2560" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="servlet.api.version" value="%0"/>
+  <alias path="sqlserver.version" value="%2"/>
+  <alias path="apache.commons" value="%3"/>
+  <alias path="jsp" value="%4"/>
+  <alias path="servlet" value="%5"/>
+  <alias path="codehaus" value="%6"/>
+  <alias path="hibernate" value="%7"/>
+  <alias path="apache" value="%8"/>
+  <alias path="jackson" value="%9"/>
+  <alias path="sqlserver" value="%10"/>
+  <alias path="sitemesh.version" value="%11"/>
+  <alias path="/assignment-front-end/pom.xml" value="%1"/>
+  <alias path="modelmapper" value="%12"/>
+  <alias path="servlet.api" value="%13"/>
+  <alias path="jsp.api.version" value="%14"/>
+  <alias path="codehaus.jackson" value="%15"/>
+  <alias path="hibernate.version" value="%16"/>
+  <alias path="jsp.api" value="%17"/>
+  <alias path="weld.servlet" value="%18"/>
+  <alias path="modelmapper.version" value="%19"/>
+  <alias path="apache.commons.version" value="%20"/>
+  <alias path="lombok" value="%21"/>
+  <alias path="lombok.version" value="%22"/>
+  <alias path="jstl" value="%23"/>
+  <alias path="jackson.vesion" value="%24"/>
+  <alias path="weld" value="%25"/>
+  <alias path="codehaus.jackson.version" value="%26"/>
+  <alias path="jstl.version" value="%27"/>
+  <alias path="weld.servlet.version" value="%28"/>
+  <alias path="sitemesh" value="%29"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

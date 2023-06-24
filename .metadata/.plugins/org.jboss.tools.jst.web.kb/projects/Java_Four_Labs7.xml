@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/10.2.0.jre17/mssql-jdbc-10.2.0.jre17.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/jsp-api/2.0/jsp-api-2.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="Java_Four_Assign"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.3/jackson-annotations-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/hibernate/hibernate-core/5.6.14.Final/hibernate-core-5.6.14.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/weld/servlet/weld-servlet/1.1.0.Final/weld-servlet-1.1.0.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/opensymphony/sitemesh/2.4.2/sitemesh-2.4.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="Java_Four_Assign"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="Java_Four_Assign"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.3/jackson-core-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar"/>
+  <path value="C:/Users/Duy Nam/.m2/repository/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+   <linked-resource name="%1;" path="%2"/>
+   <linked-resource name="%1;" path="%3"/>
+   <linked-resource name="%4;" path="%1"/>
+   <linked-resource name="%4;" path="%5"/>
+  </core>
+  <el>
+   <linked-el length="22" name="%6" offset="1788" path="%7"/>
+   <linked-el length="18" name="%8" offset="1629" path="%7"/>
+   <linked-el length="23" name="%9" offset="2239" path="%7"/>
+   <linked-el length="28" name="%10" offset="3035" path="%11"/>
+   <linked-el length="18" name="%12" offset="1629" path="%7"/>
+   <linked-el length="22" name="%13" offset="1788" path="%7"/>
+   <linked-el length="28" name="%14" offset="2552" path="%11"/>
+   <linked-el length="29" name="%14" offset="2197" path="%11"/>
+   <linked-el length="30" name="%14" offset="2493" path="%11"/>
+   <linked-el length="28" name="%15" offset="2552" path="%11"/>
+   <linked-el length="20" name="%16" offset="2117" path="%17"/>
+   <linked-el length="15" name="%18" offset="1929" path="%7"/>
+   <linked-el length="23" name="%19" offset="2239" path="%7"/>
+   <linked-el length="19" name="%20" offset="2075" path="%7"/>
+   <linked-el length="15" name="%21" offset="1929" path="%7"/>
+   <linked-el length="28" name="%22" offset="2552" path="%11"/>
+   <linked-el length="29" name="%22" offset="2197" path="%11"/>
+   <linked-el length="30" name="%22" offset="2493" path="%11"/>
+   <linked-el length="23" name="%23" offset="2239" path="%7"/>
+   <linked-el length="30" name="%24" offset="2493" path="%11"/>
+   <linked-el length="22" name="%25" offset="1788" path="%7"/>
+   <linked-el length="18" name="%26" offset="1629" path="%7"/>
+   <linked-el length="19" name="%27" offset="2075" path="%7"/>
+   <linked-el length="28" name="%28" offset="3035" path="%11"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="servlet.api.version" value="%6"/>
+  <alias
+   path="/Java_Four_Labs7/src/main/java/com/example/service/impl/UserServiceImpl.java" value="%1"/>
+  <alias path="jsp" value="%12"/>
+  <alias path="servlet" value="%13"/>
+  <alias path="sessionScope.user" value="%14"/>
+  <alias path="/Java_Four_Labs7/src/main/webapp/login.jsp" value="%17"/>
+  <alias path="/Java_Four_Labs7/src/main/webapp/index.jsp" value="%11"/>
+  <alias
+   path="/Java_Four_Labs7/src/main/java/com/example/service/IUserService.java" value="%5"/>
+  <alias
+   path="/Java_Four_Labs7/src/main/java/com/example/dao/impl/UserDaoImpl.java" value="%3"/>
+  <alias path="sitemesh.version" value="%20"/>
+  <alias
+   path="/Java_Four_Labs7/src/main/java/com/example/controller/HomeController.java" value="%4"/>
+  <alias path="/Java_Four_Labs7/pom.xml" value="%7"/>
+  <alias
+   path="/Java_Four_Labs7/src/main/java/com/example/dao/AbstractDao.java" value="%0"/>
+  <alias path="servlet.api" value="%25"/>
+  <alias path="jsp.api.version" value="%26"/>
+  <alias
+   path="/Java_Four_Labs7/src/main/java/com/example/dao/IUserDao.java" value="%2"/>
+  <alias path="jsp.api" value="%8"/>
+  <alias path="weld.servlet" value="%9"/>
+  <alias path="applicationScope.visitors" value="%10"/>
+  <alias path="sessionScope.user.admin" value="%15"/>
+  <alias path="message" value="%16"/>
+  <alias path="jstl" value="%18"/>
+  <alias path="weld" value="%19"/>
+  <alias path="jstl.version" value="%21"/>
+  <alias path="sessionScope" value="%22"/>
+  <alias path="weld.servlet.version" value="%23"/>
+  <alias path="sessionScope.user.fullname" value="%24"/>
+  <alias path="sitemesh" value="%27"/>
+  <alias path="applicationScope" value="%28"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

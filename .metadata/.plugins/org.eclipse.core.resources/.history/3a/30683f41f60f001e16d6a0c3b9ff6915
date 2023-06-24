@@ -1,0 +1,14 @@
+package model;
+
+import org.junit.runner.JUnitCore;
+import org.junit.runner.Result;
+
+import learning.AllTests;
+
+public class TestException {
+	
+	public static void main(String[] args) {
+		Result result = JUnitCore.runClasses(AllTests.class);
+	}
+
+}

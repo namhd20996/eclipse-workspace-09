@@ -1,0 +1,10 @@
+package lesson.three;
+
+import org.junit.Rule;
+
+public class ErrorCollectorExample {
+	
+	@Rule
+	public 
+
+}

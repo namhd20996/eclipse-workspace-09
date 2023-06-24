@@ -1,0 +1,11 @@
+package model;
+
+public class Calculator {
+	public  double phepTru(Double a, Double b) {
+		return a - b;
+	}
+
+	public  double phepCong(Double a, Double b) {
+		return a + b;
+	}
+}
