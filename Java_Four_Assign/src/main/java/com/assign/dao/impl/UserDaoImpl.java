@@ -55,7 +55,7 @@ public class UserDaoImpl extends AbstractDao<UserEntity> implements IUserDao {
 
 	@Override
 	public UserEntity findOneByUsernameAndEmail(String username, String email) {
-		String hql = "SELECT o FROM UserEntity o WHERE o.username = 0 AND o.email = ?1";
+		String hql = "SELECT o FROM UserEntity o WHERE o.username = ?0 AND o.email = ?1";
 		return findOne(UserEntity.class, hql, username, email);
 	}
 

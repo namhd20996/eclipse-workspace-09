@@ -130,7 +130,7 @@ public class AbstractDao<T> {
 			}
 			result = query.executeUpdate();
 			SESSION.getTransaction().commit();
-			System.out.println("Create success");
+			System.out.println("Update success");
 			return result > 0 ? true : false;
 		} catch (Exception e) {
 			SESSION.getTransaction().rollback();
@@ -143,11 +143,11 @@ public class AbstractDao<T> {
 			SESSION.getTransaction().begin();
 			SESSION.remove(entity);
 			SESSION.getTransaction().commit();
-			System.out.println("Create success");
+			System.out.println("Delete success");
 			return entity;
 		} catch (Exception e) {
 			SESSION.getTransaction().rollback();
-			System.out.println("Cannot insert entity " + entity.getClass().getSimpleName());
+			System.out.println("Cannot Delete entity " + entity.getClass().getSimpleName());
 			throw new RuntimeException(e);
 		}
 	}
