@@ -1,8 +1,6 @@
 package controller;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.lang.reflect.InvocationTargetException;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -17,17 +15,10 @@ import org.apache.commons.beanutils.BeanUtils;
 import dao.UserDao;
 import model.User;
 
-/**
- * Servlet implementation class Labs5CTL
- */
 @WebServlet("/labs5-ctl")
 public class Labs5CTL extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
-	public Labs5CTL() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) {
 		try {
@@ -86,7 +77,6 @@ public class Labs5CTL extends HttpServlet {
 			RequestDispatcher rd = getServletContext().getRequestDispatcher(url);
 			rd.forward(request, response);
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
@@ -94,7 +84,6 @@ public class Labs5CTL extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
 

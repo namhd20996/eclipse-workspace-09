@@ -1,4 +1,4 @@
-
+<%@include file="/common/taglib.jsp" %>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!-- Navbar -->
@@ -18,13 +18,11 @@
 					<li class="nav-item"><a class="nav-link" href="#">Link</a></li>
 					<li class="nav-item dropdown"><a
 						class="nav-link dropdown-toggle" href="#" role="button"
-						data-bs-toggle="dropdown" aria-expanded="false"> Dropdown </a>
+						data-bs-toggle="dropdown" aria-expanded="false"> Lesson </a>
 						<ul class="dropdown-menu">
-							<li><a class="dropdown-item" href="#">Action</a></li>
-							<li><a class="dropdown-item" href="#">Another action</a></li>
+							<li><a class="dropdown-item" href="<c:url value='/detail-servlet'/>">Three</a></li>
+							<li><a class="dropdown-item" href="<c:url value='/list-servlet'/>">Four</a></li>
 							<li><hr class="dropdown-divider"></li>
-							<li><a class="dropdown-item" href="#">Something else
-									here</a></li>
 						</ul></li>
 					
 				</ul>
@@ -35,7 +33,7 @@
 
 
 					<a class="btn btn-primary" style="white-space: nowrap;"
-						href="khachhang/login.jsp"> Đăng nhập </a>
+						href="<c:url value='/user-servler'/>"> Đăng nhập </a>
 					
 					<% String url = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort()
 									+ request.getContextPath(); %>

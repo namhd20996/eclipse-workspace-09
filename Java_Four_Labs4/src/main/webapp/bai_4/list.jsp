@@ -37,7 +37,7 @@
 				<c:forEach var="item" items="${items }">
 				<div class="col-lg-4 col-md-6 mb-4">
 						<div class="card h-100">
-							<a href="<%=url%>/bai_3/detail.jsp"><img class="card-img-top"
+							<a href="<c:url value='/detail-servlet'/>"><img class="card-img-top"
 								src="<%=url %>/image/${item.image}" alt="" height=""></a>
 							<div class="card-body">
 								<h4 class="card-title">

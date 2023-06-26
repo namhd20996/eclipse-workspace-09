@@ -3,7 +3,6 @@ package email;
 import java.util.Date;
 import java.util.Properties;
 
-import javax.mail.Address;
 import javax.mail.Authenticator;
 import javax.mail.Message;
 import javax.mail.MessagingException;

@@ -1,0 +1,87 @@
+package controller;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.Part;
+
+@WebServlet(value = { "/home-page", "/bai-1", "/bai-2", "/bai-3", "/bai-4" }, name = "controllerOf")
+public class HomeController extends HttpServlet {
+
+	private static final long serialVersionUID = 1L;
+
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		req.setCharacterEncoding("UTF-8");
+		resp.setCharacterEncoding("UTF-8");
+		String action = req.getServletPath();
+		switch (action) {
+		case "/home-page":
+			doGetHomePage(req, resp);
+			break;
+		case "/bai-1":
+			doGetBai_1(req, resp);
+			break;
+		case "/bai-2":
+			break;
+		case "/bai-4":
+			break;
+		}
+	}
+
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		req.setCharacterEncoding("UTF-8");
+		resp.setCharacterEncoding("UTF-8");
+		String action = req.getServletPath();
+		switch (action) {
+		case "/bai-1":
+			break;
+		case "/bai-2":
+			break;
+		}
+	}
+
+	protected void doGetHomePage(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		getServletContext().getRequestDispatcher("/WEB-INF/views/home.jsp").forward(req, resp);
+	}
+
+	protected void doGetBai_1(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		getServletContext().getRequestDispatcher("/WEB-INF/views/lesson-one/home.jsp").forward(req, resp);
+	}
+	
+	protected void doPostBai_1(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		Part part_IMG = req.getPart("image");
+		System.out.println(part_IMG);
+		Part part_File = req.getPart("document");
+
+		String uploadPath = getServletContext().getRealPath("/uploads");
+		System.out.println(uploadPath);
+		// Lấy thông tin người dùng upload
+		String fileName_IMG = Path.of(part_IMG.getSubmittedFileName()).getFileName().toString();
+		System.out.println(fileName_IMG);
+		String fileName_File = Path.of(part_File.getSubmittedFileName()).getFileName().toString();
+		// Nếu thư muc upload chưa tồn tại thì tạo mới một thư mục để lưu trữ
+		if (!Files.exists(Path.of(uploadPath))) {
+			Files.createDirectory(Path.of(uploadPath));
+		}
+
+		// Lưu xuống thư mục
+		System.out.println(Paths.get(uploadPath.toString(), fileName_IMG).toString());
+		part_IMG.write(Paths.get(uploadPath.toString(), fileName_IMG).toString());
+		part_File.write(Paths.get(uploadPath.toString(), fileName_File).toString());
+
+		req.setAttribute("image", fileName_IMG);
+		req.setAttribute("document", fileName_File);
+		getServletContext().getRequestDispatcher("/WEB-INF/views/lesson-one/result.jsp").forward(req, resp);
+	}
+
+}

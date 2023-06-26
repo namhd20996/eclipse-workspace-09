@@ -1,7 +1,6 @@
 package controller;
 
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 
@@ -14,9 +13,6 @@ import javax.servlet.http.HttpServletResponse;
 
 import model.UserModel;
 
-/**
- * Servlet implementation class UserServler
- */
 @WebServlet("/user-servler")
 public class UserServler extends HttpServlet {
 	private static final long serialVersionUID = 1L;
@@ -26,7 +22,7 @@ public class UserServler extends HttpServlet {
 		request.setCharacterEncoding("UTF-8");
 		response.setCharacterEncoding("UTF-8");
 		response.setContentType("text/html; charset=UTF-8");
-		String action = request.getParameter("action");
+//		String action = request.getParameter("action");
 		String url = "/bai_2/login.jsp";
 
 		List<UserModel> users = Arrays.asList(new UserModel("User1", "123", true), new UserModel("User1", "123", true),
@@ -36,12 +32,6 @@ public class UserServler extends HttpServlet {
 		request.setAttribute("items", users);
 		RequestDispatcher rd = getServletContext().getRequestDispatcher(url);
 		rd.forward(request, response);
-	}
-
-	protected void doPost(HttpServletRequest request, HttpServletResponse response)
-			throws ServletException, IOException {
-		// TODO Auto-generated method stub
-		doGet(request, response);
 	}
 
 }

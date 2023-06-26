@@ -3,6 +3,7 @@ package model;
 import java.io.Serializable;
 import java.util.Date;
 
+@SuppressWarnings("serial")
 public class Staff implements Serializable{
 	private String hoTen;
 	private String hinhAnh;

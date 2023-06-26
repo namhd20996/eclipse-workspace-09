@@ -13,6 +13,7 @@ public class Fpoly {
 
 	@Test
 	public void test() {
+		// Khởi tạo driver kết nối với chrome
 		WebDriverManager.chromedriver().setup();
 		ChromeOptions chromeOptions = new ChromeOptions();
 		chromeOptions.setExperimentalOption("excludeSwitches", List.of("disable-popup-blocking", "enable-automation"));

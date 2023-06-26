@@ -1,0 +1,9 @@
+package controller;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet(value = {"/home-page"}, name = "controllerOfHome")
+public class HomeController extends HttpServlet{
+
+}

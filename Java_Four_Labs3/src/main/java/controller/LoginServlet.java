@@ -15,35 +15,29 @@ import org.apache.commons.beanutils.BeanUtils;
 import model.LoginUser;
 import util.CookieUtil;
 
-/**
- * Servlet implementation class LoginServlet
- */
 @WebServlet("/login-servlet")
 public class LoginServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		loginCookie(request, response);
 	}
 
-
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-		System.out.println("123");
 		loginPostCookie(request, response);
 	}
 
 	protected void loginCookie(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		String userName = CookieUtil.get("userName", request);
-		String url = "/bai_4.jsp";
+		String url = "/WEB-INF/views/lesson-four/home.jsp";
 		HttpSession session = request.getSession();
 		if (userName != null && !userName.equals("")) {
 			request.setAttribute("message", "login success");
 			session.setAttribute("userName", userName);
-			url = "/dashboard.jsp";
+			url = "/WEB-INF/views/lesson-four/dashboard.jsp";
 			RequestDispatcher rd = getServletContext().getRequestDispatcher(url);
 			rd.forward(request, response);
 			return;
@@ -54,7 +48,7 @@ public class LoginServlet extends HttpServlet {
 
 	protected void loginPostCookie(HttpServletRequest request, HttpServletResponse response) {
 		try {
-			String url = "/bai_4.jsp";
+			String url = "/WEB-INF/views/lesson-four/home.jsp";
 			LoginUser bean = new LoginUser();
 			HttpSession session = request.getSession();
 			BeanUtils.populate(bean, request.getParameterMap());
@@ -72,9 +66,8 @@ public class LoginServlet extends HttpServlet {
 			RequestDispatcher rd = getServletContext().getRequestDispatcher(url);
 			rd.forward(request, response);
 		} catch (Exception e) {
-			// TODO: handle exception
 			e.printStackTrace();
 		}
-		
+
 	}
 }
