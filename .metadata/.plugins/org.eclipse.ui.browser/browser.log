@@ -1097,3 +1097,10 @@ May 09, 2023 09:40:59.308 [25976:20836:0509/094059.308:ERROR:connection_factory_
 Jun 12, 2023 08:55:09.324 NEW SESSION
 Jun 12, 2023 08:55:09.324 [6732:11732:0612/085509.246:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
 Jun 12, 2023 08:58:47.20 [6732:11732:0612/085847.020:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jul 08, 2023 13:04:47.219 NEW SESSION
+Jul 08, 2023 13:04:47.219 [15324:8052:0708/130447.216:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 08, 2023 13:05:11.427 [15324:8052:0708/130511.427:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 08, 2023 13:06:10.706 [15324:8052:0708/130610.706:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 08, 2023 13:07:33.692 [15324:8052:0708/130733.692:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 08, 2023 13:11:33.531 [15324:8052:0708/131133.530:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

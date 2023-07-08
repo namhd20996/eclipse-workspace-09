@@ -40,9 +40,10 @@
 								  </a>
 								  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
 								    <a class="dropdown-item" href="<c:url value='/login/change-pass'/>">Change Password</a>
-								    <a class="dropdown-item" href="#">Change Information</a>
+								    <a class="dropdown-item" href="<c:url value='/login/change-information'/>">Change Information</a>
 								    <a class="dropdown-item" href="<c:url value='/history'/>">History</a>
 								    <a class="dropdown-item" href="<c:url value='/favorites'/>">Favorite</a>
+								    <a class="dropdown-item" href="<c:url value='/admin'/>">Manager</a>
 								    <a class="dropdown-item" href="<c:url value='/logout'/>">Log Out</a>
 								  </div>
 								</div>

@@ -65,16 +65,14 @@ public class Email {
 			Transport.send(msg);
 			System.out.println("Gửi email thành công");
 		} catch (MessagingException e) {
-			// TODO Auto-generated catch block
 			System.out.println("Gửi email không thành công");
-			e.printStackTrace();
+			throw new RuntimeException();
 		}
 	}
-	
+
 	public static String getNoiDung(UserDTO dto) {
-//		dto.setVerify(RandomNumber.soNgauNhien());
-		String link = "http://localhost:8080/Assign_Java_Four/verify?action=verify&Username="
-				+ dto.getUsername() + "&maXacThuc=" + dto.getVerify();
+		String link = "http://localhost:8080/Assign_Java_Four/verify?action=verify&Username=" + dto.getUsername()
+				+ "&maXacThuc=" + dto.getVerify();
 		String noiDung = "<p>Xin ch&agrave;o bạn: <strong>" + dto.getEmail() + "</strong></p>\r\n"
 				+ "<p>Vui l&ograve;ng x&aacute;c thực t&agrave;i khoản của bạn bằng c&aacute;ch nhập m&atilde;: <strong>"
 				+ dto.getVerify()
@@ -82,6 +80,16 @@ public class Email {
 				+ "<p><a href=\"" + link + "\">" + link + "</a></p>\r\n"
 				+ "<p>Đ&acirc;y l&agrave; mail tự động xin vui l&ograve;ng kh&ocirc;ng phản hồi email n&agrave;y.</p>\r\n"
 				+ "<p>Xin tr&acirc;n trọng cảm ơn.</p>";
+		return noiDung;
+	}
+
+	public static String getNoiDungSendMail(String href, String content, String subject) {
+		String noiDung = "<p>Xin ch&agrave;o bạn!.. Bạn được gửi một m&oacute;n qu&agrave; b&iacute; mật từ một người bạn của bạn!..</p>\r\n"
+				+ "<p>Vui l&ograve;ng click v&agrave;o đường dẫn để nhận được m&oacute;n qu&agrave; đ&oacute; nh&eacute;!</p>\r\n"
+				+ "<p><a href=\"https://www.youtube.com/embed/" + href + "\">https://www.youtube.com/embed/" + href
+				+ "+</a></p>\r\n"
+				+ "<p>Đ&acirc;y l&agrave; mail tự động vui l&ograve;ng kh&ocirc;ng phản hồi!..</p>\r\n"
+				+ "<p><strong>Xin cảm ơn...</strong></p>";
 		return noiDung;
 	}
 

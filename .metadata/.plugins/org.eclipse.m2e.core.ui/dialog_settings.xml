@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Java_Four_Labs2"/>
+			<item value="Java_Four_Labs1"/>
 			<item value="Java_Four_Labs6"/>
 			<item value="Java_Four_Labs5_1"/>
 			<item value="Test"/>
@@ -18,6 +20,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Java_Four_Labs2"/>
+			<item value="Java_Four_Labs1"/>
 			<item value="Java_Four_Labs6"/>
 			<item value="Java_Four_Labs5_1"/>
 			<item value="Test"/>

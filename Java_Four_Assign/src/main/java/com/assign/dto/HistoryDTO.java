@@ -2,9 +2,15 @@ package com.assign.dto;
 
 import java.sql.Timestamp;
 
-import lombok.Data;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
-@Data
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public class HistoryDTO extends BaseDTO<HistoryDTO> {
 	private UserDTO user;
 	private VideoDTO video;

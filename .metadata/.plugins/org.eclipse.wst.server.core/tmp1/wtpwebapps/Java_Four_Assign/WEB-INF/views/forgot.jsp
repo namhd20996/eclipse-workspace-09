@@ -19,13 +19,6 @@
 				</div>
 
 				<form class="login100-form validate-form" id="formSubmit">
-				
-				<div class="wrap-input100 validate-input m-b-26" data-validate="Username is required">
-						<div id="messageReturn" class="alert alert-success" role="alert">
-						  This is a success alert—check it out!
-						</div>
-					</div>
-				
 					<div class="wrap-input100 validate-input m-b-26" data-validate="Username is required">
 						<span class="label-input100">Username</span>
 						<input class="input100" type="text" id="username" name="username" placeholder="Enter username">
@@ -84,7 +77,7 @@
 	   				window.location.href = 'http://localhost:8080/Java_Four_Assign/login/verify';
 	   			}, 5*1000);
 	   		}).fail(function(e){
-	   			$('#messageReturn').text('Your username and email not correct!!!');
+	   			alert('Oop!..')
 	   		})
 		});
 	</script>

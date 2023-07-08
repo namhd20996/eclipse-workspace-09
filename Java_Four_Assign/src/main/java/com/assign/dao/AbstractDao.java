@@ -8,6 +8,7 @@ import javax.persistence.StoredProcedureQuery;
 import org.hibernate.Query;
 import org.hibernate.Session;
 
+import com.assign.constant.SystemConstant;
 import com.assign.entity.UserEntity;
 import com.assign.util.HibernateUtil;
 
@@ -111,7 +112,7 @@ public class AbstractDao<T> {
 			SESSION.getTransaction().begin();
 			SESSION.merge(entity);
 			SESSION.getTransaction().commit();
-			System.out.println("Create success");
+			System.out.println("Update success");
 			return entity;
 		} catch (Exception e) {
 			SESSION.getTransaction().rollback();
@@ -174,10 +175,14 @@ public class AbstractDao<T> {
 		}
 		return query.getResultList();
 	}
-
+	
 	public static void main(String[] args) {
-		AbstractDao<UserEntity> a = new AbstractDao<>();
-		List<UserEntity> list = a.findAll(UserEntity.class, true);
+		AbstractDao<UserEntity> dao = new AbstractDao<>();
+		String hql = "SELECT o FROM UserEntity o WHERE o.username=?0 AND o.password=?1";
+		UserEntity entity = dao.findOne(UserEntity.class, hql, "duynam", "123");
+		boolean isRole = entity.getRoleEntities().stream()
+				.anyMatch(item -> item.getCode().equals(SystemConstant.ROLE_ADMIN));
+		System.out.println(isRole);
 	}
 
 }

@@ -1,8 +1,0 @@
-package lesson.three;
-
-public class VatCalculator {
-
-	public double getVatOnAmount() {
-		
-	}
-}

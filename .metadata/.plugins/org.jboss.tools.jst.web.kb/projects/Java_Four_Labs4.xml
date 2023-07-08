@@ -145,7 +145,6 @@
   <path value="C:/Users/Duy Nam/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3.jar"/>
  </paths>
  <validation>
-  <core validator-id="jboss.cdi.core"/>
   <el>
    <linked-el length="22" name="%0" offset="2262" path="%1"/>
    <linked-el length="14" name="%2" offset="320" path="%3"/>

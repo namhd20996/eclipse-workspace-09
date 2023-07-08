@@ -1,0 +1,115 @@
+package com.assign.controller.web;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.inject.Inject;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.assign.constant.SystemConstant;
+import com.assign.dto.HistoryDTO;
+import com.assign.dto.UserDTO;
+import com.assign.dto.VideoDTO;
+import com.assign.service.IHistorySevice;
+import com.assign.service.IVideoService;
+import com.assign.util.Email;
+import com.assign.util.SessionUtil;
+
+@WebServlet(value = { "/trang-chu", "/favorites", "/history", "/send-mail" }, name = "ofWeb")
+public class HomeController extends HttpServlet {
+
+	private static final long serialVersionUID = -26417368690380209L;
+
+	@Inject
+	private IVideoService videoService;
+
+	@Inject
+	private IHistorySevice historySevice;
+
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		req.setCharacterEncoding("UTF-8");
+		resp.setCharacterEncoding("UTF-8");
+		String action = req.getServletPath();
+		switch (action) {
+		case "/trang-chu":
+			doGetIndex(req, resp);
+			break;
+		case "/favorites":
+			doGetFavorites(req, resp);
+			break;
+		case "/history":
+			doGetHistory(req, resp);
+			break;
+		}
+	}
+
+	private void doGetHistory(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		UserDTO user = (UserDTO) SessionUtil.getInstance().getValue(req, SystemConstant.USER_CURRENT);
+		List<HistoryDTO> histories = historySevice.findByUsername(user.getUsername());
+		List<VideoDTO> videos = new ArrayList<>();
+		histories.forEach(item -> videos.add(item.getVideo()));
+		req.setAttribute("videos", videos);
+		req.setAttribute("title", "List History");
+		getServletContext().getRequestDispatcher("/WEB-INF/views/web/favorites.jsp").forward(req, resp);
+	}
+
+	private void doGetFavorites(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		UserDTO user = (UserDTO) SessionUtil.getInstance().getValue(req, SystemConstant.USER_CURRENT);
+		List<HistoryDTO> histories = historySevice.findByUsernameAndIsLiked(user.getUsername());
+		List<VideoDTO> videos = new ArrayList<>();
+		histories.forEach(item -> videos.add(item.getVideo()));
+		req.setAttribute("videos", videos);
+		req.setAttribute("title", "List Favorites");
+		getServletContext().getRequestDispatcher("/WEB-INF/views/web/favorites.jsp").forward(req, resp);
+	}
+
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		req.setCharacterEncoding("UTF-8");
+		resp.setCharacterEncoding("UTF-8");
+		String action = req.getServletPath();
+		switch (action) {
+		case "/send-mail":
+			doPostSendMail(req, resp);
+			break;
+		}
+	}
+
+	protected void doPostSendMail(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		String subject = req.getParameter("subject");
+		String to = req.getParameter("to");
+//		String content = req.getParameter("content");
+		String href = req.getParameter("href");
+		
+//		try {
+//			Email.sendEmail(to, subject, Email.getNoiDungSendMail(href, "", ""));
+//			req.setAttribute("flag", true);
+//		} catch (Exception e) {
+//			req.setAttribute("flag", false);
+//		}
+	}
+
+	protected void doGetIndex(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		VideoDTO videoDTO = new VideoDTO();
+		Integer page = 1;
+		Integer limit = 2;
+		if (req.getParameter("page") != null && req.getParameter("limit") != null) {
+			page = Integer.valueOf(req.getParameter("page"));
+			limit = Integer.valueOf(req.getParameter("limit"));
+		}
+		videoDTO.setPage(page);
+		videoDTO.setLimit(limit);
+		videoDTO.setTotalItem(videoService.totalItem());
+		videoDTO.setTotalPage((int) Math.ceil((double) videoDTO.getTotalItem() / videoDTO.getLimit()));
+		videoDTO.setListResult(videoService.findAll(page, limit));
+		req.setAttribute("model", videoDTO);
+		getServletContext().getRequestDispatcher("/WEB-INF/views/web/home.jsp").forward(req, resp);
+	}
+}

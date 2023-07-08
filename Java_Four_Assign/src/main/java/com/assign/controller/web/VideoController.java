@@ -67,9 +67,4 @@ public class VideoController extends HttpServlet {
 		getServletContext().getRequestDispatcher("/WEB-INF/views/web/video-detail.jsp").forward(req, resp);
 	}
 
-	@Override
-	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		// TODO Auto-generated method stub
-		super.doPost(req, resp);
-	}
 }

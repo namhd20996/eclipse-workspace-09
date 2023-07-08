@@ -22,63 +22,63 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="Java_Four_Labs4"/>
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="assign-front-end"/>
     </library>
    </libraries>
   </path>
@@ -86,11 +86,11 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="Java_Four_Assign"/>
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="Java_Four_Assign"/>
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="assign-front-end"/>
     </library>
    </libraries>
   </path>
@@ -150,7 +150,6 @@
   <path value="C:/Users/Duy Nam/.m2/repository/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar"/>
  </paths>
  <validation>
-  <core validator-id="jboss.cdi.core"/>
   <el>
    <linked-el length="22" name="%0" offset="3994" path="%1"/>
    <linked-el length="25" name="%2" offset="1403" path="%1"/>

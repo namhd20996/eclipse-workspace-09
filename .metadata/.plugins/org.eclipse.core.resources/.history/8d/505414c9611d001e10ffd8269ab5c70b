@@ -1,0 +1,214 @@
+package com.assign.controller.web;
+
+import java.io.IOException;
+
+import javax.inject.Inject;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.assign.constant.SystemConstant;
+import com.assign.converter.UserConverter;
+import com.assign.dto.UserDTO;
+import com.assign.entity.UserEntity;
+import com.assign.service.IUserService;
+import com.assign.util.Email;
+import com.assign.util.FormUtil;
+import com.assign.util.RandomNumber;
+import com.assign.util.SessionUtil;
+
+@WebServlet(value = { "/login", "/logout", "/login/register", "/login/forgot", "/login/verify", "/login/change-pass",
+		"/login/change-information" }, name = "ofUser")
+public class UserController extends HttpServlet {
+
+	private static final long serialVersionUID = 3443017563477496838L;
+
+	@Inject
+	private IUserService userService;
+
+	@Inject
+	private UserConverter userConverter;
+
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		req.setCharacterEncoding("UTF-8");
+		resp.setCharacterEncoding("UTF-8");
+		String action = req.getServletPath();
+		switch (action) {
+		case "/login":
+			doGetLogin(req, resp);
+			break;
+		case "/logout":
+			doGetLogout(req, resp);
+			break;
+		case "/login/register":
+			doGetRegister(req, resp);
+			break;
+		case "/login/forgot":
+			doGetForgot(req, resp);
+			break;
+		case "/login/verify":
+			doGetVerify(req, resp);
+			break;
+		case "/login/change-pass":
+			doGetChangePass(req, resp);
+			break;
+		case "/login/change-information":
+			doGetChangeInformation(req, resp);
+			break;
+		}
+	}
+
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		req.setCharacterEncoding("UTF-8");
+		resp.setCharacterEncoding("UTF-8");
+		String action = req.getServletPath();
+		switch (action) {
+		case "/login":
+			doPostLogin(req, resp);
+			break;
+		case "/login/register":
+			doPostRegister(req, resp);
+			break;
+		case "/login/forgot":
+			doPostForgot(req, resp);
+			break;
+		case "/login/verify":
+			doPostVerify(req, resp);
+			break;
+		case "/login/change-pass":
+			doPostChangePass(req, resp);
+			break;
+		case "/login/change-information":
+			doPostChangeInformation(req, resp);
+			break;
+		}
+	}
+
+	private void doPostChangePass(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		resp.setContentType("application/json");
+		String oPass = req.getParameter("oPassword");
+//		String nPass = req.getParameter("nPassword");
+		String cPass = req.getParameter("cPassword");
+		UserDTO user = (UserDTO) SessionUtil.getInstance().getValue(req, SystemConstant.USER_CURRENT);
+		if (oPass.equals(user.getPassword())) {
+			user.setPassword(cPass);
+			user = userService.update(user);
+			SessionUtil.getInstance().putValue(req, SystemConstant.USER_CURRENT, user);
+			resp.setStatus(204);
+		} else {
+			resp.setStatus(400);
+		}
+
+	}
+
+	private void doPostVerify(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		resp.setContentType("application/json");
+		UserDTO userDTO = FormUtil.toModel(UserDTO.class, req);
+		Boolean result = userService.updateUserByUsernameAndVerify(userDTO);
+		if (result) {
+			resp.setStatus(204);
+		} else {
+			resp.setStatus(400);
+		}
+	}
+
+	private void doPostForgot(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		resp.setContentType("application/json");
+		UserDTO user = FormUtil.toModel(UserDTO.class, req);
+		user = userService.findOneByUsernameAndEmail(user);
+		if (user != null) {
+			user.setVerify(RandomNumber.soNgauNhien());
+			userService.update(user);
+			Email.sendEmail(user.getEmail(), "Gửi từ Online Entertaiment", Email.getNoiDung(user));
+			resp.setStatus(204);
+		} else {
+			resp.setStatus(400);
+		}
+	}
+
+	private void doPostChangeInformation(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		UserDTO userCurrent = (UserDTO) SessionUtil.getInstance().getValue(req, SystemConstant.USER_CURRENT);
+		UserDTO userChange = FormUtil.toModel(UserDTO.class, req);
+		userCurrent.builder()
+		.email(userChange.getEmail())
+		.gender(userChange.getGender())
+		.fullName(userChange.getFullName())
+		.build();
+		
+		if(userService.update(userCurrent) !=null) {
+			
+		}else {
+			
+		}
+		getServletContext().getRequestDispatcher("/WEB-INF/views/changeinformation.jsp").forward(req, resp);
+	}
+
+	private void doGetChangePass(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		getServletContext().getRequestDispatcher("/WEB-INF/views/changepassword.jsp").forward(req, resp);
+	}
+
+	private void doGetChangeInformation(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		getServletContext().getRequestDispatcher("/WEB-INF/views/changeinformation.jsp").forward(req, resp);
+	}
+
+	private void doGetVerify(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		getServletContext().getRequestDispatcher("/WEB-INF/views/verify.jsp").forward(req, resp);
+	}
+
+	private void doGetForgot(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		getServletContext().getRequestDispatcher("/WEB-INF/views/forgot.jsp").forward(req, resp);
+	}
+
+	protected void doGetLogin(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		String message = req.getParameter("message");
+		if (message != null) {
+			req.setAttribute("message", message);
+		}
+		getServletContext().getRequestDispatcher("/WEB-INF/views/login.jsp").forward(req, resp);
+	}
+
+	protected void doGetLogout(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		SessionUtil.getInstance().removeValue(req, SystemConstant.USER_CURRENT);
+		resp.sendRedirect(req.getContextPath() + "/trang-chu");
+	}
+
+	protected void doGetRegister(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		getServletContext().getRequestDispatcher("/WEB-INF/views/register.jsp").forward(req, resp);
+	}
+
+	protected void doPostLogin(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		UserDTO user = FormUtil.toModel(UserDTO.class, req);
+		user = userService.findOneByUsernameAndPassword(user);
+		if (user != null) {
+			SessionUtil.getInstance().putValue(req, SystemConstant.USER_CURRENT, user);
+			resp.sendRedirect(req.getContextPath() + "/trang-chu");
+		} else {
+			resp.sendRedirect(req.getContextPath() + "/login?message=UserIsFail");
+		}
+	}
+
+	protected void doPostRegister(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		UserDTO user = FormUtil.toModel(UserDTO.class, req);
+		if (userService.findOneByUsername(user.getUsername()) == null) {
+			user = userService.create(user);
+			if (user != null) {
+				Email.sendEmail(user.getEmail(), "To Online Entertaiment", Email.getNoiDung(user));
+				SessionUtil.getInstance().putValue(req, SystemConstant.USER_CURRENT, user);
+				resp.sendRedirect(req.getContextPath() + "/trang-chu");
+			}
+		} else {
+			resp.sendRedirect(req.getContextPath() + "/register?message=registerfail");
+		}
+	}
+
+}

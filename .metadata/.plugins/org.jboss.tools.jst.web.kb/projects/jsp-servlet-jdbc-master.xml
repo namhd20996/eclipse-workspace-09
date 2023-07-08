@@ -13,11 +13,11 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="Java_Four_Assign"/>
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-decorator.tld" project="assign-front-end"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="Java_Four_Assign"/>
+      path="FileSystems/lib-sitemesh-2.4.2.jar/meta-inf/sitemesh-page.tld" project="assign-front-end"/>
     </library>
    </libraries>
   </path>

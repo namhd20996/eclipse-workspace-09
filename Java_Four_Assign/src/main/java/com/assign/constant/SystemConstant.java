@@ -6,4 +6,6 @@ public class SystemConstant {
 	public static final String STORE_FIND_USER_BY_HREF = "User.FindListLikedByVideoHref";
 	
 	public static final String PARA_VIDEO_HREF = "videoHref";
+	
+	public static final String ROLE_ADMIN = "ADMIN";
 }

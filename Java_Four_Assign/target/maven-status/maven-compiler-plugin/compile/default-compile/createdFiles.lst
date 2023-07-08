@@ -29,6 +29,7 @@ com\assign\controller\web\HomeController.class
 com\assign\service\impl\StatsServiceImpl.class
 com\assign\service\IVideoService.class
 com\assign\util\DateUtil.class
+com\assign\entity\HistoryEntity$HistoryEntityBuilder.class
 com\assign\entity\RoleEntity.class
 com\assign\dao\impl\VideoDaoImpl.class
 com\assign\dto\HistoryDTO.class

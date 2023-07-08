@@ -17,9 +17,10 @@ import com.assign.dto.UserDTO;
 import com.assign.dto.VideoDTO;
 import com.assign.service.IHistorySevice;
 import com.assign.service.IVideoService;
+import com.assign.util.Email;
 import com.assign.util.SessionUtil;
 
-@WebServlet(value = { "/trang-chu", "/favorites", "/history" }, name = "ofWeb")
+@WebServlet(value = { "/trang-chu", "/favorites", "/history", "/send-mail" }, name = "ofWeb")
 public class HomeController extends HttpServlet {
 
 	private static final long serialVersionUID = -26417368690380209L;
@@ -70,7 +71,29 @@ public class HomeController extends HttpServlet {
 
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		super.doPost(req, resp);
+		req.setCharacterEncoding("UTF-8");
+		resp.setCharacterEncoding("UTF-8");
+		String action = req.getServletPath();
+		switch (action) {
+		case "/send-mail":
+			doPostSendMail(req, resp);
+			break;
+		}
+	}
+
+	protected void doPostSendMail(HttpServletRequest req, HttpServletResponse resp)
+			throws ServletException, IOException {
+		String subject = req.getParameter("subject");
+		String to = req.getParameter("to");
+//		String content = req.getParameter("content");
+		String href = req.getParameter("href");
+
+		try {
+			Email.sendEmail(to, subject, Email.getNoiDungSendMail(href, "", ""));
+			resp.setStatus(204);
+		} catch (Exception e) {
+			resp.setStatus(400);
+		}
 	}
 
 	protected void doGetIndex(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
